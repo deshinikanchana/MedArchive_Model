@@ -1,0 +1,1725 @@
+sample_name,medical_specialty,cluster
+Pacemaker Interrogation,Cardiovascular / Pulmonary,12
+Aspiration - Knee Joint,Orthopedic,1
+Cardiac Cath & Selective Coronary Angiography,Cardiovascular / Pulmonary,4
+Acute Kidney Failure,Nephrology,8
+Cardiac Consultation - 6,Cardiovascular / Pulmonary,7
+Gardnerella Bacterial Vaginosis,Obstetrics / Gynecology,7
+Diplopia,Ophthalmology,2
+Flex Sig - 2,Gastroenterology,10
+Lumbar Puncture,Neurology,2
+Ear Pain - Drainage,ENT - Otolaryngology,8
+Laparoscopic Pyeloplasty,Nephrology,1
+Consult - Cerebral Peduncle Infarction,Neurology,2
+Exercise Stress Test - 1,Cardiovascular / Pulmonary,13
+Psych Consult - Assaultive Behavior,Psychiatry / Psychology,2
+Aortic Valve Replacement,Cardiovascular / Pulmonary,4
+Consult - Multiple Colon Polyps,Gastroenterology,8
+Cardiac Consultation - 3,Cardiovascular / Pulmonary,17
+CT Abdomen & Pelvis - 8,Gastroenterology,16
+MRI Spine - Epidural Lipoma,Neurology,11
+Treadmill Test,Cardiovascular / Pulmonary,13
+Chest Tube Insertion in ER,Cardiovascular / Pulmonary,1
+Cerebral Angiogram,Neurology,11
+Triple Lumen Catheter Insertion,Cardiovascular / Pulmonary,1
+Chest Pulmonary Angio,Cardiovascular / Pulmonary,16
+Facetectomy & Foraminotomy,Orthopedic,9
+Heart Catheterization & Angiography,Cardiovascular / Pulmonary,4
+Psych Consult - Assaultive Behavior,Psychiatry / Psychology,2
+Bunionectomy & Osteotomy,Orthopedic,3
+Consult - Congestive Heart Failure,Cardiovascular / Pulmonary,17
+Nephrectomy - Radical,Nephrology,1
+Tubal Ligation,Obstetrics / Gynecology,15
+Hepatic Encephalopathy,Neurology,8
+Migraine without Aura - Consult,Neurology,7
+MRI Knee - 4,Orthopedic,16
+Exploratory Laparotomy,Gastroenterology,1
+Psychosocial Eval for Kidney Transplant,Nephrology,7
+Otitis Media - H&P,Pediatrics - Neonatal,7
+Fogarty Thrombectomy,Cardiovascular / Pulmonary,1
+Craniotomy - Frontotemporal,Neurosurgery,1
+OB/GYN - H&P,Obstetrics / Gynecology,7
+Carotid & Cerebral Arteriograms,Cardiovascular / Pulmonary,1
+Lung Cancer & MI - Hospice Cosult,Hematology - Oncology,8
+Thoracoscopy & Thoracotomy - Mesothelioma,Cardiovascular / Pulmonary,1
+Angiography & Catheterization - 2,Cardiovascular / Pulmonary,4
+Nephrology Consultation - 3,Nephrology,7
+GI Consultation - 1,Gastroenterology,7
+Records Review - Orthopedic,Orthopedic,2
+Peripheral Effusion - Consult,Cardiovascular / Pulmonary,8
+D&C & Hysteroscopy Followup,Obstetrics / Gynecology,15
+Foreign Body - Right Nose,Pediatrics - Neonatal,8
+Laparoscopy - Drainage of Cyst,Obstetrics / Gynecology,15
+Neuropsychological Evaluation - 2,Psychiatry / Psychology,2
+Ultrasound OB - 5,Radiology,14
+CABG - 2,Cardiovascular / Pulmonary,1
+Chronic Atrial Fibrillation,Cardiovascular / Pulmonary,17
+Anterior Cervical Discectomy - 3,Orthopedic,9
+Atrioventricular Septal Defect,Cardiovascular / Pulmonary,4
+Glioma - Consult,Hematology - Oncology,2
+HCT - Pituitary Mass,Neurology,11
+Craniotomy - Temporal,Neurosurgery,1
+Craniopharyngioma - Postop,Neurology,2
+Ophthalmology - Letter - 2,Ophthalmology,6
+Neck Pain - Discharge Summary,Orthopedic,9
+Pars Plana Vitrectomy & Lensectomy,Ophthalmology,6
+D&C & Hysteroscopy,Obstetrics / Gynecology,15
+Cervical Spondylosis - Neuro Consult,Neurology,2
+Low-Transverse C-Section & BTL - 2,Obstetrics / Gynecology,15
+Mental Status Evaluation,Psychiatry / Psychology,2
+Hemiarthroplasty - Shoulder,Orthopedic,3
+Vacuum D&C,Obstetrics / Gynecology,15
+CT C-Spine - 2,Neurology,16
+Osteotomy & Bunionectomy,Orthopedic,3
+Anterior Cervical Discectomy & Fusion - 2,Neurosurgery,9
+Cholangiocarcinoma Consult,Gastroenterology,7
+TAH & Salpingo-oophorectomy,Obstetrics / Gynecology,15
+Nuclear Cardiac Stress Report,Cardiovascular / Pulmonary,13
+Cardiac Catheterization - 6,Cardiovascular / Pulmonary,4
+Bell's Palsy,Neurology,2
+Ischemic Cardiac Disease - Progress Note,Cardiovascular / Pulmonary,7
+CT C-Spine - 1,Neurology,16
+Thyroid Mass Consult,Pediatrics - Neonatal,7
+Transesophageal Echocardiogram - 1,Cardiovascular / Pulmonary,5
+Neuropsychological Evaluation - 3,Psychiatry / Psychology,2
+Comprehensive Neurological Evaluation,Neurology,2
+CT C-Spine,Orthopedic,16
+CT of Chest with Contrast,Cardiovascular / Pulmonary,16
+Heart Catheterization,Cardiovascular / Pulmonary,4
+Peripheral Effusion - Consult,Cardiovascular / Pulmonary,8
+Abnormal Stress Test,Cardiovascular / Pulmonary,4
+Psychological Evaluation,Psychiatry / Psychology,2
+Anterior Cervical Discectomy & Fusion - 8,Orthopedic,9
+Hypergranulation - Consult,Orthopedic,8
+Huntington's Disease - Consult,Neurology,2
+Neck Mass Biopsy,Hematology - Oncology,1
+I&D - ORIF Wound,Orthopedic,3
+Central Line Insertion,Cardiovascular / Pulmonary,1
+Dural AVM,Neurology,11
+Cerebral Angiogram - Lateral Medullary Syndrome,Neurology,11
+Delivery Note - 3,Obstetrics / Gynecology,15
+Esophagogastroduodenoscopy with Biopsies,Gastroenterology,10
+MRI T-Spine - Spinal Mets,Orthopedic,11
+Colonoscopy - 6,Gastroenterology,10
+Pseudotumor Cerebri,Neurology,2
+Heart Catheterization & Angiography - 2,Cardiovascular / Pulmonary,4
+Bronchiolitis - Discharge Summary,Cardiovascular / Pulmonary,0
+Phacoemulsification of Cataract,Ophthalmology,6
+Physical Therapy - Synovitis,Orthopedic,2
+Arthrodesis,Orthopedic,3
+CVA Consult - ER Visit,Neurology,8
+Cineangiography - 2,Cardiovascular / Pulmonary,4
+Pulmonary Function Test - 5,Cardiovascular / Pulmonary,10
+Coronary Angiography,Cardiovascular / Pulmonary,4
+Chest Tube Insertion in ER,Cardiovascular / Pulmonary,1
+Endovascular Abdominal Aortic Aneurysm Repair,Gastroenterology,1
+Cardiac Consultation,Cardiovascular / Pulmonary,8
+Port-A-Cath Insertion,Cardiovascular / Pulmonary,12
+Delivery Note - 9,Obstetrics / Gynecology,15
+CT Brain,Neurology,11
+Echocardiography,Cardiovascular / Pulmonary,5
+MRI Spine,Orthopedic,16
+Pulmonary Medicine Clinic Followup,Cardiovascular / Pulmonary,0
+Well-Child Check - 8,Pediatrics - Neonatal,8
+Gastrostomy,Gastroenterology,1
+2-D Echocardiogram - 2,Cardiovascular / Pulmonary,5
+Cardiac Catheterization - 2,Cardiovascular / Pulmonary,4
+Consult - Seizures,Neurology,2
+Wrist Ganglion Excision,Orthopedic,3
+2-D Echocardiogram - 3,Cardiovascular / Pulmonary,5
+ORIF & Cervical Fusion,Orthopedic,9
+Carpal Ligament Release - 1,Orthopedic,3
+MRI C-spine,Orthopedic,11
+ER Report - Chest Pain,Cardiovascular / Pulmonary,8
+Cardiology Office Visit - 3,Cardiovascular / Pulmonary,13
+Laparoscopic Appendectomy - 1,Gastroenterology,1
+MRI C3 - Cord Compression.,Orthopedic,11
+MRI Brain -  Meningioma (Olfactory),Neurology,11
+Holter Monitor Report - 1,Cardiovascular / Pulmonary,13
+Ultrasound OB - 7,Obstetrics / Gynecology,14
+Metastatic Ovarian Cancer - Consult,Obstetrics / Gynecology,8
+Ventriculostomy Placement,Neurosurgery,1
+Craniotomy - Burr Hole,Neurosurgery,1
+Infantile Spasms,Pediatrics - Neonatal,7
+Breast Mass Excision - 2,Obstetrics / Gynecology,1
+Well-Child Check - 7,Pediatrics - Neonatal,8
+Blood per Rectum,Gastroenterology,8
+CT Lumbar Spine,Orthopedic,16
+Stress Test Bruce Protocol,Radiology,13
+Pituitary Adenomectomy,Neurosurgery,1
+Cardiac Catheterization - 4,Cardiovascular / Pulmonary,4
+Lightheaded & Dizziness,Cardiovascular / Pulmonary,17
+Anterior Lumbar Fusion,Neurosurgery,9
+Hypergranulation - Consult,Orthopedic,8
+Psychosocial Eval for Kidney Transplant,Psychiatry / Psychology,7
+Adenotonsillectomy - 2,ENT - Otolaryngology,1
+Radiologic Exam - Spine,Orthopedic,16
+Multiple Stent Placements,Cardiovascular / Pulmonary,4
+Pterional Craniotomy,Neurosurgery,1
+Hemiarthroplasty - Austin-Moore Bipolar,Orthopedic,3
+Antibiotic-Impregnated Beads Placement,Orthopedic,3
+Arthroscopy Shoulder/Knee,Orthopedic,3
+Chest Tube Insertion,Cardiovascular / Pulmonary,1
+Thoracotomy & Pleurectomy,Cardiovascular / Pulmonary,1
+SOAP - Shortness of Breath,Cardiovascular / Pulmonary,17
+Goldenhar Syndrome - Discharge Summary,Pediatrics - Neonatal,8
+Duplex Ultrasound - Legs,Cardiovascular / Pulmonary,1
+Spontaneous Vaginal Delivery,Obstetrics / Gynecology,15
+Anterior Cervical Discectomy & Interbody Fusion - 2,Neurosurgery,9
+Tracheostomy Change,Cardiovascular / Pulmonary,10
+Discharge Summary,Cardiovascular / Pulmonary,0
+Bronchoscopy & Bronchoalveolar Lavage,Cardiovascular / Pulmonary,10
+Low-Transverse C-Section - 5,Obstetrics / Gynecology,15
+A 5-month-old boy with cough,Pediatrics - Neonatal,8
+Sinus problems - Consult,ENT - Otolaryngology,7
+Neurologic Examination,Neurology,2
+Tracheostomy,Cardiovascular / Pulmonary,10
+Anterior Cervical Discectomy - 2,Neurosurgery,2
+Thrombocytopenia - SOAP Note,Hematology - Oncology,0
+Hysterectomy & Salpingoophorectomy,Obstetrics / Gynecology,15
+Clear Corneal Temporal Incision,Ophthalmology,6
+Laryngectomy & Thyroid Lobectomy,ENT - Otolaryngology,1
+Consult - Breast Cancer - 2,Hematology - Oncology,7
+Colonoscopy with Biopsy - 2,Gastroenterology,10
+Ear pain - Pediatric Consult,Pediatrics - Neonatal,2
+Consult - Screening Colonoscopy,Gastroenterology,7
+Endovascular Brachytherapy,Cardiovascular / Pulmonary,1
+Craniotomy & Neuronavigation,Neurosurgery,1
+Chronic Kidney Disease Followup - 2,Nephrology,8
+Hip Fracture - Rehab Consult,Orthopedic,0
+Congestion & Fever - 2-month-old,Pediatrics - Neonatal,8
+Astrocytoma,Neurology,11
+H&P - Cardio (Angina),Cardiovascular / Pulmonary,7
+Laminectomy & Foraminotomy & Cervical Fusion,Orthopedic,9
+Symes Amputation - Hallux,Hematology - Oncology,3
+Laparoscopy - 4,Obstetrics / Gynecology,15
+Shunt Revision,Neurosurgery,1
+Holter Monitoring,Cardiovascular / Pulmonary,13
+MRI Brain - Progressive Aphasia,Radiology,11
+Bunionectomy & Arthrodesis,Orthopedic,3
+Physical Therapy - Back Pain,Orthopedic,2
+Pneumonia - Discharge Summary,Cardiovascular / Pulmonary,0
+Colonoscopy - 20,Gastroenterology,10
+"Esophagogastrectomy, Jejunostomy, & Chest Tubes",Cardiovascular / Pulmonary,1
+Chronic Kidney Disease - Followup,Nephrology,17
+Discharge Summary - Cholelithiasis,Gastroenterology,0
+CT Brain - Stroke,Radiology,11
+MRI Brain - Toxoplasmosis,Neurology,11
+"Heart Catheterization, Ventriculography, & Angiography - 2",Cardiovascular / Pulmonary,4
+Colostomy Failure,Gastroenterology,8
+Ultrasound - Pelvis,Obstetrics / Gynecology,16
+MRI T-Spine - Spinal Mets,Radiology,11
+Anterior Cervical Discectomy - 2,Orthopedic,2
+Slipped Capital Femoral Epiphysis (SCFE),Orthopedic,16
+"Heart Catheterization, Ventriculography, & Angiography",Cardiovascular / Pulmonary,4
+Aortobifemoral Bypass,Cardiovascular / Pulmonary,1
+Tesio Hemodialysis Catheter Insertion,Cardiovascular / Pulmonary,12
+MRI T-Spine - Spinal Mets,Neurology,11
+School Physical - 2,Pediatrics - Neonatal,8
+Intramedullary Nail Fixation,Orthopedic,3
+Ruptured Globe Repair - Posterior Sclera,Ophthalmology,6
+Multiple Neurological Symptoms,Neurology,2
+Bilateral Carotid Cerebral Angiogram,Cardiovascular / Pulmonary,1
+Fiberoptic Bronchoscopy,Cardiovascular / Pulmonary,10
+Myoview Perfusion Scan,Cardiovascular / Pulmonary,13
+Anterior Cervical Discectomy & Decompression,Orthopedic,9
+Radical Hysterectomy,Obstetrics / Gynecology,15
+Hip Surgery - Discharge Summar,Orthopedic,8
+Consult/ER Report - OB/GYN,Obstetrics / Gynecology,7
+Laminectomy & Foraminotomy Followup,Neurology,2
+New Onset Seizure,Pediatrics - Neonatal,2
+Hemicraniectomy,Neurosurgery,1
+"Heart Catheterization, Ventriculography, & Angiography - 10",Cardiovascular / Pulmonary,4
+Neuroblastoma - Consult,Pediatrics - Neonatal,8
+Ophthalmology Progress Note - 2,Ophthalmology,2
+Cholecystitis - Discharge Summary,Gastroenterology,0
+Psych Consult - Alcohol Withdrawal,Psychiatry / Psychology,2
+Pancreatic Mass - Discharge Summary,Gastroenterology,0
+Total Hip Arthroplasty,Orthopedic,3
+Anemia - Consult,Hematology - Oncology,8
+Nerve & Tendon Repair - Finger,Orthopedic,3
+HCT - Calcification of Basal Ganglia,Neurology,11
+Cataract Extraction,Ophthalmology,6
+D&C & Laparoscopy - 0,Obstetrics / Gynecology,15
+Esophagogastroduodenoscopy - 3,Gastroenterology,10
+Cervicalgia,Orthopedic,2
+MRI of Lung - Adenocarcinoma,Cardiovascular / Pulmonary,11
+Exercise Stress Test - 3,Cardiovascular / Pulmonary,13
+Lumbar Puncture,Neurosurgery,2
+Bronchoscopy - 7,Cardiovascular / Pulmonary,10
+Delivery Note - 5,Obstetrics / Gynecology,15
+Consult - Laparoscopic Cholecystectomy,Gastroenterology,7
+Cerebral Angiogram,Radiology,11
+Flexible Fiberoptic Bronchoscopy,Cardiovascular / Pulmonary,10
+Elbow Manipulation,Orthopedic,3
+Cholestasis Of Pregnancy,Obstetrics / Gynecology,0
+Glioma - 2,Neurology,11
+CT of Lumbar Spine w/o Contrast,Neurology,16
+Dilated Cardiomyopathy - Consult,Cardiovascular / Pulmonary,13
+Tracheostomy & Thyroid Isthmusectomy,ENT - Otolaryngology,1
+"Heart Catheterization, Ventriculography, & Angiography - 13",Cardiovascular / Pulmonary,4
+Attempted Suicide - Consult,Psychiatry / Psychology,2
+Laparoscopy,Obstetrics / Gynecology,15
+Adult Hydrocephalus,Neurology,2
+Ultrasound - Carotid - 1,Cardiovascular / Pulmonary,1
+Rhinectomy & Nasal Endoscopy,ENT - Otolaryngology,1
+D&C & Tubal Pregnancy Removal,Obstetrics / Gynecology,15
+Anterior Cervical Discectomy & Fusion - 7,Orthopedic,9
+Total Abdominal Hysterectomy - 1,Obstetrics / Gynecology,15
+Diskectomy & Fusion,Orthopedic,1
+Long-Arm Cast,Orthopedic,3
+Moyamoya Disease,Radiology,11
+Psych Consult - Substance abuse,Psychiatry / Psychology,2
+Cardiac Cath & Selective Coronary Angiography,Cardiovascular / Pulmonary,4
+Shoulder Hemi-resurfacing,Orthopedic,3
+"Discectomy, Osteophytectomy, & Foraminotomy",Neurosurgery,9
+Discharge Summary - Hip Surgery,Orthopedic,0
+MRI Shoulder - 1,Orthopedic,16
+Subxiphoid Pericardial Window - 2,Cardiovascular / Pulmonary,1
+Aortogram - Leg claudication.,Cardiovascular / Pulmonary,4
+"Heart Catheterization, Ventriculography, & Angiography - 4",Cardiovascular / Pulmonary,4
+Pulmonary Function Test - 4,Cardiovascular / Pulmonary,0
+URI & Eustachian Congestion,ENT - Otolaryngology,8
+Transesophageal Echocardiogram - 7,Cardiovascular / Pulmonary,5
+D&C - Discharge Summary,Obstetrics / Gynecology,0
+Hematology Consult - 1,Hematology - Oncology,8
+Bronchoscopy - 6,Cardiovascular / Pulmonary,10
+Cardiology Progress Note,Cardiovascular / Pulmonary,17
+Psych H&P - 3,Psychiatry / Psychology,8
+Lower Extremity Pain,Orthopedic,7
+Cardiac Catheterization - 12,Cardiovascular / Pulmonary,4
+CT Head and C Spine,Neurology,16
+Radiologic Exam - Spine,Neurology,16
+Prostate Brachytherapy,Hematology - Oncology,2
+Austin-Akin Bunionectomy,Orthopedic,3
+MRI C3 - Cord Compression.,Radiology,11
+Fiberoptic Bronchoscopy - 1,Cardiovascular / Pulmonary,10
+Intraperitoneal Mesothelioma,Hematology - Oncology,8
+Exercise Stress Test - 4,Cardiovascular / Pulmonary,13
+Meniscoplasty & Chondroplasty,Orthopedic,3
+MRI Spine - Epidural Lipoma,Orthopedic,11
+Dobutamine Stress Test - 2,Cardiovascular / Pulmonary,13
+Fetal Anatomical Survey,Obstetrics / Gynecology,14
+Arthrotomy & Subscapularis Tendon Repair,Orthopedic,3
+Transesophageal Echocardiogram,Cardiovascular / Pulmonary,5
+Angiogram & StarClose Closure,Cardiovascular / Pulmonary,4
+Carpal Tunnel Release - 7,Orthopedic,3
+Neonatal Consult,Pediatrics - Neonatal,8
+ORIF - Fifth Metatarsal,Orthopedic,3
+CT Abdomen & Pelvis - 5,Gastroenterology,16
+D&C & Laparoscopy - 1,Obstetrics / Gynecology,15
+Psych Consult - Alcohol Withdrawal,Psychiatry / Psychology,2
+Eye Examination - H&P,Ophthalmology,7
+Central Line Insertion,Cardiovascular / Pulmonary,1
+Endoscopic Carpal Tunnel Rlease,Orthopedic,3
+Anterior Cervical Discectomy,Neurosurgery,9
+Bunionectomy - Austin - Akin,Orthopedic,3
+Cardioversion - Unsuccessful,Cardiovascular / Pulmonary,17
+Thrombocytosis Followup,Hematology - Oncology,7
+Laparoscopic Ablation of Eendometrial Implants,Obstetrics / Gynecology,15
+Abnormal Stress Test,Cardiovascular / Pulmonary,4
+Phenol Neurolysis & Botulinum Toxin Injection - 1,Neurosurgery,1
+Total Abdominal Hysterectomy - 3,Obstetrics / Gynecology,15
+CAD - 6-Month Followup,Cardiovascular / Pulmonary,2
+Followup Screw Fixation,Orthopedic,2
+Anterior Cervical Discectomy & Interbody Fusion - 1,Orthopedic,9
+"Discectomy, Osteophytectomy, & Foraminotomy",Orthopedic,9
+Endoscopy - 1,Gastroenterology,10
+Lobectomy - Followup,Cardiovascular / Pulmonary,8
+Pneumoconiosis,Cardiovascular / Pulmonary,17
+Adenoidectomy,ENT - Otolaryngology,1
+CAD - 6-Month Followup,Cardiovascular / Pulmonary,2
+Cancer of the nasopharynx,Hematology - Oncology,2
+Well-Child Check - 4,Pediatrics - Neonatal,8
+Renal Insufficiency - Consult,Nephrology,8
+Psychiatric Discharge Summary - 1,Psychiatry / Psychology,0
+Carotid Doppler Report,Cardiovascular / Pulmonary,1
+Physical Therapy - Brain Tumor Removal,Neurology,2
+Resection of Tumor of Scalp,Hematology - Oncology,1
+Pelvic Laparotomy,Obstetrics / Gynecology,15
+Anterior Cervical Discectomy & Decompression - 1,Orthopedic,9
+Ultrasound OB - 7,Radiology,14
+Neuropsychological Evaluation,Neurology,2
+Lobectomy & Lymph Node Dissection,Cardiovascular / Pulmonary,1
+MRI Cervical Spine - Chiropractic Specific,Neurology,16
+Echocardiogram - 1,Cardiovascular / Pulmonary,5
+Trabeculectomy & Tenonectomy,Ophthalmology,6
+CT Abdomen & Pelvis - 8,Nephrology,16
+Diplopia,Neurology,2
+Psych Consult - Altered Mental Status,Psychiatry / Psychology,2
+Anterior Cervical Discectomy & Osteophytectomy,Orthopedic,9
+Transesophageal Echocardiography Probe,Cardiovascular / Pulmonary,1
+Bilateral Myringotomies,ENT - Otolaryngology,1
+High PT-INR - ER Visit,Cardiovascular / Pulmonary,17
+"Heart Catheterization, Ventriculography, & Angiography - 3",Cardiovascular / Pulmonary,4
+Debridement - Shoulder,Orthopedic,3
+Sepsis - Consult,Hematology - Oncology,8
+Pacemaker (Single Chamber),Cardiovascular / Pulmonary,12
+Reactive Airway Disease,Pediatrics - Neonatal,8
+"Browlift, Blepharoplasty, & Rhytidectomy",Ophthalmology,1
+Three Views - Foot,Orthopedic,16
+Tubal Sterilization & Coagulation,Obstetrics / Gynecology,15
+Arthroscopy - Shoulder,Orthopedic,3
+Transesophageal Echocardiogram - 4,Cardiovascular / Pulmonary,5
+Discharge Summary - Cerebral Palsy,Neurology,0
+Temporal Artery Biopsy - 1,Neurosurgery,1
+Colpocleisis,Obstetrics / Gynecology,15
+Exercise Stress Test - 5,Cardiovascular / Pulmonary,13
+Transesophageal Echocardiogram - 3,Cardiovascular / Pulmonary,5
+Vitrectomy - 2,Ophthalmology,6
+Myocardial Perfusion Imaging - 3,Cardiovascular / Pulmonary,13
+ER Report - COPD,Cardiovascular / Pulmonary,0
+Ventriculostomy Placement,Neurology,1
+Biventricular Cardioverter Defibrillator Implantation,Cardiovascular / Pulmonary,12
+CT Angiography - 2,Cardiovascular / Pulmonary,16
+Cataract Extraction - 2,Ophthalmology,6
+Cemented Arthroplasty,Orthopedic,3
+Anterior Cervical Discectomy & Arthrodesis - 1,Neurosurgery,9
+Anterior Cervical Discectomy & Fusion - 1,Neurosurgery,9
+Anterior Cervical Discectomy & Fusion - 1,Orthopedic,9
+Endoscopy With Biopsy,Gastroenterology,10
+CT Head,Neurology,16
+Rotator cuff syndrome - H&P,Orthopedic,7
+Pulmonary Hypertension - Pediatric Consult,Cardiovascular / Pulmonary,17
+EGD Template - 2,Gastroenterology,10
+Consult - Enlarged Tonsils,ENT - Otolaryngology,7
+MRI Cervical Spine - 1,Orthopedic,16
+Proctitis & Proctocolitis,Gastroenterology,8
+Tilt Table Test - 2,Cardiovascular / Pulmonary,13
+Cataract Extraction & Vitrectomy,Ophthalmology,6
+Psych Consult - Schizophrenia,Psychiatry / Psychology,2
+Toronto Porcine Valve Insertion,Cardiovascular / Pulmonary,1
+Emergency C-section.,Obstetrics / Gynecology,15
+Trigger Thumb Release,Orthopedic,3
+Tethered Cord Evaluation,Neurology,2
+Tube Shunt - Ahmed Valve Implant,Ophthalmology,6
+Echocardiography,Cardiovascular / Pulmonary,5
+Cardiac Consultation - 2,Cardiovascular / Pulmonary,7
+Anterior Cervical Discectomy & Fusion,Orthopedic,9
+Endotracheal Intubation,Cardiovascular / Pulmonary,17
+Tracheotomy - 1,Cardiovascular / Pulmonary,1
+Austin Bunionectomy,Orthopedic,3
+Low-Transverse C-Section - 4,Obstetrics / Gynecology,15
+Huntington's Disease - Consult,Neurology,2
+Tubal Ligation - Laparoscopic,Obstetrics / Gynecology,15
+EMG/Nerve Conduction Study - 9,Radiology,2
+Septoplasty,ENT - Otolaryngology,1
+Neuropsychological Evaluation - 2,Neurology,2
+Hemiarthroplasty - Discharge Summary,Orthopedic,0
+Craniotomy - Frontotemporal - 1,Neurosurgery,1
+"CT Head, Facial Bones, Cervical Spine",Orthopedic,16
+ORIF Facial Fractures - Followup,ENT - Otolaryngology,2
+Ttriple-Lumen Central Line,Gastroenterology,1
+Coarctation of Aorta,Cardiovascular / Pulmonary,4
+Vaginal Hysterectomy - Laparoscopic-Assisted,Obstetrics / Gynecology,15
+Atrial Fibrillation - Consult,Cardiovascular / Pulmonary,17
+Lymphoma - Consult,Hematology - Oncology,7
+Glioma - Consult,Hematology - Oncology,2
+Laparoscopic Adrenalectomy,Cardiovascular / Pulmonary,15
+Spontaneous Vaginal Delivery - 1,Obstetrics / Gynecology,15
+CVA - Discharge Summary,Cardiovascular / Pulmonary,0
+Colonoscopy - 21,Gastroenterology,10
+Urgent Cardiac Cath,Cardiovascular / Pulmonary,4
+Anterior Cruciate Ligament Reconstruction,Orthopedic,3
+Ulnar Nerve Transposition,Orthopedic,3
+Bronchoscopy - 4,Cardiovascular / Pulmonary,10
+Elbow Pain - Consult,Orthopedic,2
+CT Abdomen & Pelvis - 11,Gastroenterology,16
+Viral Gastroenteritis,Gastroenterology,8
+Ultrasound OB - 5,Obstetrics / Gynecology,14
+Neuroblastoma - Consult,Hematology - Oncology,8
+Bbunionectomy & Metatarsal Osteotomy,Orthopedic,3
+MRI Brain - Memory Loss,Neurology,16
+Nephrology Consultation - 1,Nephrology,7
+Adenotonsillectomy - 1,ENT - Otolaryngology,1
+CT C-Spine - 1,Orthopedic,16
+Murmur & Bacteremia.,Cardiovascular / Pulmonary,8
+Ultrasound OB - 3,Radiology,14
+Asthma in a 5-year-old,Pediatrics - Neonatal,8
+AV Fistula - 3,Nephrology,1
+Suboccipital Craniectomy,Neurology,1
+Normal L-Spine MRI,Neurology,2
+Spinal Manipulation,Orthopedic,3
+Physical Therapy - Osteoarthritis,Orthopedic,2
+Complete Physical - Female,Obstetrics / Gynecology,8
+H&P - Cardio (Angina),Cardiovascular / Pulmonary,7
+Ultrasound OB - 2,Obstetrics / Gynecology,14
+Stress Test Adenosine Myoview,Cardiovascular / Pulmonary,13
+MRI Knee - 3,Orthopedic,16
+Lower Quadrant Pain,Gastroenterology,8
+Metastatic Ovarian Cancer - Consult,Hematology - Oncology,8
+Lobectomy - Left Lower,Cardiovascular / Pulmonary,1
+MRI Brain and Brainstem,Neurology,11
+Neurologic Consultation - 3,Neurology,2
+MRI Brain & Cerebral Angiogram,Radiology,11
+Extensor Tendon Repair,Orthopedic,3
+Ulnar Nerve Transposition & Olecranon Bursa Excision,Orthopedic,3
+Fiberoptic Flexible Bronchoscopy,Cardiovascular / Pulmonary,10
+Hematoma Evacuation,Neurosurgery,1
+Cardiac Catheterization - 2,Cardiovascular / Pulmonary,4
+Pleurodesis,Cardiovascular / Pulmonary,1
+MRI Shoulder - 5,Orthopedic,16
+EMG/Nerve Conduction Study - 1,Neurology,2
+Bilateral Myringotomies - 1,ENT - Otolaryngology,1
+Mastoiditis - Discharge Summary,ENT - Otolaryngology,8
+Meniscoplasty & Chondroplasty,Orthopedic,3
+Consult - Atrial Fibrillation,Cardiovascular / Pulmonary,17
+Fiberoptic Bronchoscopy with Lavage,Cardiovascular / Pulmonary,10
+SOAP - Numbness & Tingling,Neurology,2
+Anterior Cervical Discectomy & Fusion - 5,Neurosurgery,9
+Multiple Stent Placements,Cardiovascular / Pulmonary,4
+MRI Brain - SLE & Stroke,Radiology,11
+BCCa Excision - Nasal Tip,Hematology - Oncology,1
+Cardiac Catheterization - 4,Cardiovascular / Pulmonary,4
+Gastroenteritis - Discharge Summary,Gastroenterology,0
+Thrombocytopenia - Consult,Hematology - Oncology,8
+CT Chest,Cardiovascular / Pulmonary,16
+Hardware Removal - Ulnar,Orthopedic,3
+Phalanx Amputation,Orthopedic,3
+Elevated BNP - Consult,Cardiovascular / Pulmonary,8
+Consult - Pulsatile Tinnitus,ENT - Otolaryngology,7
+Saphenous Vein - Ligation & Stripping,Cardiovascular / Pulmonary,1
+Cysto & Double-J Stent Insersion,Nephrology,1
+Adenotonsillectomy,ENT - Otolaryngology,1
+Pacemaker (Dual Chamber) - 2,Cardiovascular / Pulmonary,12
+Uterine Suction Curettage,Obstetrics / Gynecology,15
+Stress Test Dobutamine Myoview,Cardiovascular / Pulmonary,13
+Biventricular Cardioverter Defibrillator Implantation,Cardiovascular / Pulmonary,12
+Mastoiditis - Discharge Summary,Pediatrics - Neonatal,8
+PEG Tube,Gastroenterology,10
+Cardiac Catheterization - 3,Cardiovascular / Pulmonary,4
+Reactive Airway Disease,Cardiovascular / Pulmonary,8
+Hematology Consult,Hematology - Oncology,8
+Colonoscopy - 10,Gastroenterology,10
+Spinal fluid evaluation,Pediatrics - Neonatal,8
+Sick Sinus Syndrome,Cardiovascular / Pulmonary,8
+BRCA-2 mutation,Hematology - Oncology,0
+ORIF - Talus,Orthopedic,3
+Well-woman checkup,Obstetrics / Gynecology,7
+Esophagogastroduodenoscopy - 4,Gastroenterology,10
+Echocardiogram,Cardiovascular / Pulmonary,5
+Status Epilepticus,Neurology,2
+Psychosocial Eval - Donor,Nephrology,2
+Discharge Summary,Cardiovascular / Pulmonary,0
+CABG,Cardiovascular / Pulmonary,1
+School Physical - 3,Pediatrics - Neonatal,8
+Craniotomy - Retrosigmoid,Neurology,1
+Consult - Knee Pain,Orthopedic,2
+CT Head - 1,Neurology,16
+Osteoarthritis - Progress Note,Orthopedic,2
+Pulmonary Function Test - 6,Cardiovascular / Pulmonary,0
+Neuroplasty,Orthopedic,9
+Thromboendarterectomy,Cardiovascular / Pulmonary,1
+Pain Management Consult - 1,Orthopedic,2
+Tailor Bunionectomy with Screw Fixation,Orthopedic,3
+Well-Child Check - 3,Pediatrics - Neonatal,8
+CT Brain - Stroke,Radiology,11
+Lumbar Re-exploration,Orthopedic,9
+Radical Mastectomy - 1,Obstetrics / Gynecology,1
+Fundoplication & Gastrostomy Followup,Gastroenterology,2
+Acute Inferior Myocardial Infarction,Cardiovascular / Pulmonary,7
+Cardiac Cath & Coronary Angiography,Cardiovascular / Pulmonary,4
+Difficulty Breathing - ER Visit,Cardiovascular / Pulmonary,8
+Angiography & Catheterization,Cardiovascular / Pulmonary,4
+Consult - Palpitations & Presyncope,Cardiovascular / Pulmonary,8
+Appendectomy Laparoscopic - 1,Gastroenterology,1
+Laminectomy & Foraminotomy Revision,Orthopedic,9
+Cystic Fibrosis,Cardiovascular / Pulmonary,2
+Chest discomfort & palpitations - Consult.,Cardiovascular / Pulmonary,7
+MRI Shoulder - 4,Orthopedic,16
+Neuropsychological Evaluation - 1,Neurology,2
+Lumbar Puncture - 1,Neurosurgery,1
+GI Consultation - 2,Gastroenterology,7
+Treadmill Test,Cardiovascular / Pulmonary,13
+T-Cell Lymphoma Consult,Hematology - Oncology,7
+Cardiac Consultation - 4,Cardiovascular / Pulmonary,7
+Knee & Back Pain,Orthopedic,16
+Peritoneal Dialysis Catheter Insertion,Nephrology,1
+Craniotomy - Occipital,Neurosurgery,1
+Holter Monitoring,Cardiovascular / Pulmonary,13
+SOM - Serous Otitis Media,ENT - Otolaryngology,2
+Preop Cardiac Consult,Cardiovascular / Pulmonary,0
+Metastatic Ovarian Cancer - Consult,Obstetrics / Gynecology,8
+Cervical Cord Lesion - Consult,Neurology,2
+Orthopedic Consult,Orthopedic,7
+Salpingooophorectomy - Laparoscopic,Obstetrics / Gynecology,15
+Laparoscopic Hysterectomy,Obstetrics / Gynecology,15
+Atrial Flutter - Progress Note,Cardiovascular / Pulmonary,0
+Laparoscopic Adrenalectomy,Cardiovascular / Pulmonary,15
+Adenoidectomy & Tonsillectomy & Lingual Frenulectomy,ENT - Otolaryngology,1
+Conformal Simulation,Hematology - Oncology,1
+Holter Monitor Report,Cardiovascular / Pulmonary,13
+Feet & Hand Cramping,Neurology,2
+Ultrasound OB - 3,Obstetrics / Gynecology,14
+MRI Head - 1,Neurology,16
+Thyroid Mass Consult,Pediatrics - Neonatal,7
+2-D Echocardiogram - 4,Cardiovascular / Pulmonary,5
+CT Head - 4,Neurology,16
+Pacemaker - DDDR,Cardiovascular / Pulmonary,12
+Infantile Spasms,Pediatrics - Neonatal,7
+Mantle Cell Lymphoma - Consult,Hematology - Oncology,7
+Ischemic Cardiac Disease - Progress Note,Cardiovascular / Pulmonary,7
+Lightheadedness,Neurology,2
+EGD & Colonoscopy,Gastroenterology,10
+Radical Mastectomy,Hematology - Oncology,1
+MRI Head,Neurology,16
+Breast Cancer Followup - 1,Hematology - Oncology,7
+MRI Shoulder - 2,Orthopedic,16
+Pinning - Hip,Orthopedic,3
+CT Abdomen & Pelvis - 1,Nephrology,16
+Reactive Airway Disease,Pediatrics - Neonatal,8
+Bunionectomy & Arthrodesis,Orthopedic,3
+"Heart Catheterization, Ventriculography, & Angiography",Cardiovascular / Pulmonary,4
+Ligament Reconstruction & Meniscus Repair,Orthopedic,3
+Thoracentesis,Cardiovascular / Pulmonary,1
+Anterior Cervical Discectomy & Fusion - 5,Neurosurgery,9
+MRI L-Spine - Subarachnoid Seeding,Orthopedic,11
+Transesophageal Echocardiogram - 6,Cardiovascular / Pulmonary,5
+Laminectomy & Facetectomy,Neurosurgery,9
+Tarsectomy,Orthopedic,3
+Patellar Tendon & Retinaculum Repair,Orthopedic,3
+Nephrology Consultation - 2,Nephrology,7
+VVIR Permanent Pacemaker Insertion,Cardiovascular / Pulmonary,12
+Lymph Node Excisional Biopsy,Hematology - Oncology,1
+Transesophageal Echocardiogram - 3,Cardiovascular / Pulmonary,5
+Difficulty Breathing - ER Visit,Pediatrics - Neonatal,8
+Facetectomy & Foraminotomy,Orthopedic,9
+Subxiphoid Pericardiotomy,Cardiovascular / Pulmonary,1
+Psych Consult - Altered Mental Status,Psychiatry / Psychology,2
+Mental Status Evaluation,Psychiatry / Psychology,2
+Ganglion Excision,Orthopedic,3
+Air Under Diaphragm - Consult,Gastroenterology,7
+Anterior Cervical Discectomy & Fusion - 4,Neurosurgery,9
+Anterior Cervical Discectomy & Interbody Fusion,Orthopedic,9
+Posttransplant Lymphoproliferative Disorder,Hematology - Oncology,8
+Psych Consult - Psychosis - 2,Psychiatry / Psychology,2
+Cemented Hemiarthroplasty & Biopsy,Orthopedic,3
+Mediastinal Mass Resection,Cardiovascular / Pulmonary,1
+Knee Arthroscopy & Medial Meniscoplasty,Orthopedic,3
+Bilateral Tubal Occlusion - Laparoscopic,Obstetrics / Gynecology,15
+Polycythemia Vera Followup,Hematology - Oncology,8
+Consult - Palpitations & Presyncope,Cardiovascular / Pulmonary,8
+Adrenalectomy & Umbilical Hernia Repair,Hematology - Oncology,1
+Psych Consult - Pain Meds,Psychiatry / Psychology,2
+Subxiphoid Pericardial Window,Cardiovascular / Pulmonary,1
+Stress Test Dobutrex,Cardiovascular / Pulmonary,10
+Colonoscopy - 3,Gastroenterology,10
+MediPort Placement,Hematology - Oncology,12
+Nephrology Office Visit - 3,Nephrology,7
+Blepharoplasty - Direct Brow Repair,Ophthalmology,1
+"Laparoscopy, Laparotomy, & Cholecystectomy",Gastroenterology,1
+Paracentesis,Gastroenterology,1
+Low-Transverse C-Section,Obstetrics / Gynecology,15
+Spine Fusion,Orthopedic,1
+Essential Tremor & Torticollis,Neurology,2
+Stress Test Bruce Protocol,Cardiovascular / Pulmonary,13
+CT Abdomen & Pelvis - 5,Nephrology,16
+Consult - Back & Leg Pain,Orthopedic,7
+Orthopedic Consult - 1,Orthopedic,2
+Psych Consult - Anxiety,Psychiatry / Psychology,0
+Blood per Rectum,Gastroenterology,8
+Laparoscopic Cholecystectomy - 9,Gastroenterology,1
+Encephalopathy  - Rehab Consult,Neurology,8
+"Suction, Dilation, & Curettage",Obstetrics / Gynecology,15
+Leaking Nephrostomy Tube,Nephrology,8
+Psychosocial Eval for Kidney Transplant,Psychiatry / Psychology,7
+Renal Ultrasound,Nephrology,16
+CT Angiography - 1,Cardiovascular / Pulmonary,16
+CT Abdomen & Pelvis - 4,Gastroenterology,16
+Rectal Bleeding - Consult,Gastroenterology,8
+Brain Tumor - Consult,Hematology - Oncology,2
+Ventricular Drain Catheter Insertion,Neurosurgery,1
+Goldenhar Syndrome - Discharge Summary,Pediatrics - Neonatal,8
+Metastatic Ovarian Cancer - Consult,Hematology - Oncology,8
+First Followup - Shunt Surgery,Neurology,2
+Facetectomy & Foraminotomy,Neurosurgery,9
+Triple Lumen Catheter Insertion,Cardiovascular / Pulmonary,1
+MRI Brain & Cerebral Angiogram,Radiology,11
+Lumbar Laminectomy & Discectomy,Orthopedic,9
+Bilateral Upper Lid Blepharoplasty,Ophthalmology,1
+Pacemaker - DDDR,Cardiovascular / Pulmonary,12
+"Heart Catheterization, Ventriculography, & Angiography - 5",Cardiovascular / Pulmonary,4
+"SAH, Contusion, Skull Fracture",Neurology,11
+Achilles Lengthening,Orthopedic,3
+Laparoscopic Appendectomy - 5,Gastroenterology,1
+Phacoemulsification Of Cataract - 2,Ophthalmology,6
+Pulmonary Edema - Consult,Cardiovascular / Pulmonary,7
+TIA & Lumbar Stenosis,Neurology,2
+Angiogram & StarClose Closure,Cardiovascular / Pulmonary,4
+Hamstring Release,Orthopedic,3
+OB/GYN Consultation - 1,Obstetrics / Gynecology,7
+Revision Rhinoplasty.,ENT - Otolaryngology,1
+Mediastinal Exploration & Right Atrium Repair,Cardiovascular / Pulmonary,1
+Styloidectomy,Orthopedic,3
+Barium Swallow Study & Speech Evaluation,Gastroenterology,2
+Upper Endoscopy,Gastroenterology,10
+Anterior Cervical Discectomy,Orthopedic,9
+Physical Exam and Pap - 2,Obstetrics / Gynecology,7
+Cataract - Second Opinion,Ophthalmology,6
+MRI Breast - 1,Obstetrics / Gynecology,7
+CyberKnife Treatment - Followup,Cardiovascular / Pulmonary,8
+Pneumonia & COPD - Discharge Summary,Cardiovascular / Pulmonary,0
+Laminectomy & Foraminotomy Revision,Neurosurgery,9
+Falls - Discharge Summary,Neurology,0
+Anterior Cervical Discectomy & Decompression,Orthopedic,9
+Colon Cancer Consult,Gastroenterology,8
+Rolandic Epilepsy,Neurology,2
+Anterior Cervical Discectomy - 1,Orthopedic,9
+CT Neck - 2,Orthopedic,16
+Laparoscopic Gastric Bypass,Gastroenterology,1
+Chest Pain & Respiratory Insufficiency,Cardiovascular / Pulmonary,0
+Tessio Catheter Insertion,Cardiovascular / Pulmonary,1
+Neck & Lower Back Pain - Consult,Neurology,2
+Delivery Note - 8,Obstetrics / Gynecology,15
+Neck & Back Pain,Orthopedic,2
+Colon Cancer Screening,Hematology - Oncology,7
+Preeclampsia,Cardiovascular / Pulmonary,17
+Lobectomy & Lymphadenectomy,Cardiovascular / Pulmonary,1
+MRI Brain - Wernicke aphasia,Neurology,11
+Cardioversion - Direct Current - 1,Cardiovascular / Pulmonary,17
+Colon Cancer Consult,Hematology - Oncology,8
+Pituitary Adenomectomy,Neurology,1
+EGD & PEG Tube Placement,Gastroenterology,1
+Arthroplasty - Hammertoe,Orthopedic,3
+Single Frontal View of Chest,Cardiovascular / Pulmonary,16
+Transpedicular Decompression,Orthopedic,9
+Anterior Cervical Discectomy & Interbody Fusion - 2,Orthopedic,9
+Stress Test Dobutamine,Cardiovascular / Pulmonary,13
+Anterior Cervical Discectomy - 4,Neurosurgery,9
+Ultrasound OB - 4,Radiology,14
+"Heart Catheterization, Ventriculography, & Angiography - 7",Cardiovascular / Pulmonary,4
+Cardiac Catheterization - 5,Cardiovascular / Pulmonary,4
+Release of A1 Pulley - 1,Orthopedic,3
+Bronchoscopy - 3,Cardiovascular / Pulmonary,10
+Colonoscopy - 7,Gastroenterology,10
+Lung Biopsy Pathology Report - 2,Cardiovascular / Pulmonary,1
+Nephrolithiasis - Progress Note,Nephrology,0
+Craniotomy - Retrosigmoid,Neurosurgery,1
+Scarf Bunionectomy,Orthopedic,3
+Pulmonary Function Test - 1,Cardiovascular / Pulmonary,10
+Lobectomy - VATS,Cardiovascular / Pulmonary,1
+Marginal Zone Lymphoma,Hematology - Oncology,7
+MRI Foot - 3,Radiology,16
+Preop Cardiac Consult,Cardiovascular / Pulmonary,0
+MRI Brain & Cerebral Angiogram,Neurology,11
+Esophagogastroduodenoscopy - 11,Gastroenterology,10
+Bronchoscopy Brushings,Cardiovascular / Pulmonary,10
+Induction of Vaginal Delivery,Obstetrics / Gynecology,15
+MRI Ankle - 1,Orthopedic,16
+MRI Brain - Toxoplasmosis,Radiology,11
+Acute Inferior Myocardial Infarction,Cardiovascular / Pulmonary,7
+Consult - Seizures,Neurology,2
+Chest Tube Removal,Cardiovascular / Pulmonary,1
+Abdominal Pain - Consult,Gastroenterology,8
+MRI Knee - 1,Orthopedic,16
+Acute Intracerebral Hemorrhage,Neurology,11
+ORIF - 1,Orthopedic,3
+BCCa Excision - Lower Lid,Ophthalmology,1
+Anterior Cervical Discectomy & Decompression,Neurosurgery,9
+Dual Chamber ICD Implantation,Cardiovascular / Pulmonary,12
+Organic Brain Syndrome,Neurology,2
+Cleft Repair,ENT - Otolaryngology,1
+Bilateral Mammogram,Obstetrics / Gynecology,7
+Bronchoscopy - 3,Cardiovascular / Pulmonary,10
+BTL & Salpingectomy,Obstetrics / Gynecology,15
+Arthrotomy & Ostectomy & Capsular Mass Excision,Orthopedic,3
+Breast Calcifications - Preop Consult,Obstetrics / Gynecology,7
+Delivery Note - 6,Obstetrics / Gynecology,15
+Colonoscopy - 19,Gastroenterology,10
+GI Bleed - Discharge Summary,Gastroenterology,17
+Low-Transverse C-Section - 10,Obstetrics / Gynecology,15
+Psychiatric Evaluation - 1,Psychiatry / Psychology,2
+Huntington's Disease,Neurology,11
+Knee Arthroplasty,Orthopedic,3
+Psych Consult - Bipolar Affective Disorder,Psychiatry / Psychology,2
+Prematurity - Discharge Summary,Pediatrics - Neonatal,8
+Anterior Cervical Discectomy & Arthrodesis - 2,Orthopedic,9
+Thoracotomy & Esophageal Exploration,Cardiovascular / Pulmonary,1
+MRI Brain - Thrombus,Neurology,11
+Ruptured Globe Repair - Sclera and Limbus,Ophthalmology,6
+Esophagogastroduodenoscopy - 2,Gastroenterology,10
+Laparoscopic Cholecystectomy - 8,Gastroenterology,1
+Glioblastoma Multiforme - Consult,Hematology - Oncology,2
+Sports Physical - 3,Pediatrics - Neonatal,8
+"Hysterectomy, BSO, & Appendectomy.",Obstetrics / Gynecology,15
+Anterior Cervical Discectomy & Fusion - 4,Orthopedic,9
+MRI T-L Spine - Schistosomiasis,Neurology,11
+Pulmonary Consultation - 1,Cardiovascular / Pulmonary,7
+BICAP Cautery,Gastroenterology,10
+Hematuria - ER Visit,Nephrology,8
+Left Lower Quadrant Pain - ER Visit,Obstetrics / Gynecology,7
+Dilated Cardiomyopathy - Consult,Cardiovascular / Pulmonary,13
+Stress Test Adenosine Myoview,Cardiovascular / Pulmonary,13
+Laparoscopic Appendectomy - 2,Gastroenterology,1
+Low-Transverse C-Section - 7,Obstetrics / Gynecology,15
+Ultrasound - Abdomen,Gastroenterology,16
+Non-Hodgkin lymphoma Followup,Hematology - Oncology,7
+Anterior Cervical Discectomy & Osteophytectomy,Orthopedic,9
+Lung Biopsy Pathology Report,Cardiovascular / Pulmonary,1
+Atrial Fibrillation Management,Cardiovascular / Pulmonary,8
+Lobectomy & Lymph Node Dissection,Cardiovascular / Pulmonary,1
+Transesophageal Echocardiogram - 6,Cardiovascular / Pulmonary,5
+Non-Small Cell Lung Cancer - Consult,Hematology - Oncology,8
+GI Consultation - 3,Gastroenterology,2
+Supraventricular Tachycardia - Consult,Cardiovascular / Pulmonary,8
+Consult - Normal Pressure Hydrocephalus,Neurology,2
+Microlaryngoscopy,ENT - Otolaryngology,10
+Coronary CT Angiography (CCTA) - 0,Cardiovascular / Pulmonary,4
+Psychiatric Evaluation - 2,Psychiatry / Psychology,2
+Uveitis,Ophthalmology,6
+Ankle Pain - Consult,Orthopedic,2
+Low-Transverse C-Section - 3,Obstetrics / Gynecology,15
+C. Diff Colitis Consult,Gastroenterology,8
+Anterior Cervical Discectomy & Fusion - 1,Orthopedic,9
+MRI Foot - 3,Orthopedic,16
+Heart Catheterization - 2,Cardiovascular / Pulmonary,4
+Cineangiography - 1,Cardiovascular / Pulmonary,4
+Esophagogastroduodenoscopy,Gastroenterology,10
+Neuro Consult - Leg Weakness,Neurology,2
+GI Consultation - 0,Gastroenterology,7
+Flexible Bronchoscopy,Cardiovascular / Pulmonary,10
+True Cut Needle Biopsy - Breast,Hematology - Oncology,1
+Carotid Endarterectomy & Angioplasty.,Cardiovascular / Pulmonary,1
+Ventricular Ectopy - Consult,Cardiovascular / Pulmonary,7
+Bronchoscopy & Thoracotomy,Cardiovascular / Pulmonary,1
+Dobutamine Stress Test,Cardiovascular / Pulmonary,13
+Tracheostomy Tube Consult,Cardiovascular / Pulmonary,7
+Consult - Migraine,Neurology,2
+IV Procainamide Infusion,Cardiovascular / Pulmonary,1
+Hysteroscopy & Endometrial Ablation,Obstetrics / Gynecology,15
+Stress Test Bruce Protocol,Cardiovascular / Pulmonary,13
+EMG/Nerve Conduction Study - 10,Neurology,2
+Neck & Lower Back Pain - Consult,Orthopedic,2
+Immunohistochemical Study,Cardiovascular / Pulmonary,1
+Cerebral Angiogram,Neurology,11
+CT Scan of  Brain w/o Contrast,Neurology,16
+CABG - 1,Cardiovascular / Pulmonary,1
+Anterior Cervical Discectomy & Decompression,Neurosurgery,9
+Umbilical Hernia Repair,Gastroenterology,1
+Achilles Tendon Repair,Orthopedic,3
+Malignant Meningioma - Consult,Neurology,2
+Non-Q-wave Myocardial Infarction,Cardiovascular / Pulmonary,8
+Cervical Spinal Stenosis,Orthopedic,2
+Cardiac Consultation - 6,Cardiovascular / Pulmonary,7
+Endoscopy Template,Gastroenterology,10
+Pathology - Ovarian Cyst,Obstetrics / Gynecology,1
+Rectal Bleeding - 1-year-old,Pediatrics - Neonatal,8
+Arthroscopic Rotator Cuff Repair - 1,Orthopedic,3
+de Quervain Release - Wrist,Orthopedic,3
+Physical Therapy - Back Pain,Orthopedic,2
+Hypertension - Progress Note,Cardiovascular / Pulmonary,7
+Paroxysmal Atrial Fibrillation,Cardiovascular / Pulmonary,17
+Neonatal Consult,Pediatrics - Neonatal,8
+Cardiac Catheterization,Cardiovascular / Pulmonary,4
+Dual Chamber Generator Replacement,Cardiovascular / Pulmonary,12
+Cemented Arthroplasty,Orthopedic,3
+CT Lumbar Spine - 2,Orthopedic,16
+Full-Field Digital Mammogram (FFDM) - 1,Obstetrics / Gynecology,7
+Sports Physical - 4,Pediatrics - Neonatal,8
+Stress Test Graded Exercise Treadmill,Cardiovascular / Pulmonary,13
+Arthroscopy & Chondroplasty,Orthopedic,3
+SOAP - Lung Mass,Cardiovascular / Pulmonary,17
+Consult - Seizures - 1,Neurology,2
+COPD - Discharge Summary,Cardiovascular / Pulmonary,0
+CT Chest - 3,Cardiovascular / Pulmonary,16
+Non-Hodgkin lymphoma Followup,Hematology - Oncology,7
+Pulmonary Valve Stenosis,Cardiovascular / Pulmonary,4
+Knee Osteoarthrosis - Discharge Summary,Orthopedic,0
+Anterior Cervical Discectomy & Fusion - 2,Orthopedic,9
+Hemilaminotomy & Foraminotomy,Orthopedic,9
+Cervical Cord Lesion - Consult,Neurology,2
+Knee Arthroplasty - Discharge Summary,Orthopedic,0
+Multiple Meningiomas,Neurology,11
+Stress Test Thallium,Cardiovascular / Pulmonary,13
+Arthroscopy - Glenoid Labrum,Orthopedic,3
+Cardiac Transfer Summary,Cardiovascular / Pulmonary,0
+"Heart Catheterization, Ventriculography, & Angiography - 9",Cardiovascular / Pulmonary,4
+Non-Q-wave Myocardial Infarction,Cardiovascular / Pulmonary,8
+Nerve & Tendon Repair - Finger,Neurosurgery,3
+Diplopia,Ophthalmology,2
+Lung Cancer & MI - Hospice Cosult,Hematology - Oncology,8
+Transthoracic Echocardiography,Cardiovascular / Pulmonary,5
+Laparoscopic Cholecystectomy - 2,Gastroenterology,1
+Arthroscopic Meniscoplasty,Orthopedic,3
+Carpal Tunnel Release - 3,Orthopedic,3
+Atrial Fibrillation - Consult,Cardiovascular / Pulmonary,17
+Anterior Cervical Discectomy & Fusion - Discharge Summary,Neurosurgery,9
+Consult/ER Report - OB/GYN,Obstetrics / Gynecology,7
+Cervical Spinal Stenosis,Neurology,2
+Salpingooophorectomy - Laparoscopic,Obstetrics / Gynecology,15
+"CT Head, Facial Bones, Cervical Spine - 1",Orthopedic,16
+Lung adenocarcinoma Path Report,Cardiovascular / Pulmonary,1
+Bronchoalveolar lavage.,Cardiovascular / Pulmonary,1
+Heart Cath & Coronary Angiography,Cardiovascular / Pulmonary,4
+Neck & Back Pain,Orthopedic,2
+Orthopedic Consult - 2,Orthopedic,2
+Heart Catheterization - 3,Cardiovascular / Pulmonary,4
+Tracheostomy Change,Cardiovascular / Pulmonary,10
+Gastrointestinal Bleed - ER Visit,Gastroenterology,8
+Psychiatric Evaluation - 3,Psychiatry / Psychology,2
+Direct Laryngoscopy,ENT - Otolaryngology,10
+Lumbar Puncture - 2,Orthopedic,1
+Azotemia Consult,Nephrology,8
+Intracranial aneurysm - ER Visit,Neurology,8
+Exercise Stress Test,Cardiovascular / Pulmonary,13
+OB/GYN Consultation - 3,Obstetrics / Gynecology,7
+Low-Transverse C-Section - 8,Obstetrics / Gynecology,15
+Flexor Carpi Radialis & Palmaris Longus Repair,Orthopedic,3
+Pulmonary - Followup Note,Cardiovascular / Pulmonary,0
+Psychiatric Assessment,Psychiatry / Psychology,2
+MRI Brain & Cerebral Angiogram,Neurology,11
+"Laminotomy, Facetectomy & Foraminotomy",Neurosurgery,9
+Cardiac Consultation,Cardiovascular / Pulmonary,8
+Mesothelioma - Consult,Cardiovascular / Pulmonary,8
+Cardioversion,Cardiovascular / Pulmonary,17
+COPD & Bronchitis - Discharge Summary,Cardiovascular / Pulmonary,0
+Ear Laceration Repair,ENT - Otolaryngology,1
+Coronary CT Angiography (CCTA) - 4,Cardiovascular / Pulmonary,4
+Tesio Hemodialysis Catheter Insertion,Cardiovascular / Pulmonary,12
+Knee DJD - Consult,Orthopedic,2
+Subxiphoid Pericardial Window - 1,Cardiovascular / Pulmonary,1
+Complex Cyanotic Congenital Heart Disease,Cardiovascular / Pulmonary,4
+Lobectomy - VATS,Cardiovascular / Pulmonary,1
+Stenting,Cardiovascular / Pulmonary,4
+Breast Mass Excision,Obstetrics / Gynecology,1
+Colonoscopy - 1,Gastroenterology,1
+MRI Spine,Neurology,16
+Normal Newborn H&P Template,Pediatrics - Neonatal,8
+Hip Pain,Orthopedic,7
+Elevated Cardiac Enzymes,Cardiovascular / Pulmonary,17
+Psych Consult - Bipolar Affective Disorder,Psychiatry / Psychology,2
+Rectal Bleeding - Consult,Gastroenterology,8
+Congestion - 21-day-old,Pediatrics - Neonatal,8
+EMG/Nerve Conduction Study - 5,Neurology,2
+"Discectomy, Osteophytectomy, & Foraminotomy",Neurosurgery,9
+Hematoma Evacuation,Neurology,1
+Neuropsychological Evaluation - 1,Neurology,2
+Physical Therapy - Brain Tumor Removal,Neurology,2
+Back Injury IME,Orthopedic,2
+Ultrasound - Abdomen - 1,Gastroenterology,16
+Consult - Facial Twitching,Neurology,2
+Shone complex,Cardiovascular / Pulmonary,8
+Congestion & Cough - 5-month-Old,Pediatrics - Neonatal,8
+2-D Echocardiogram - 3,Cardiovascular / Pulmonary,5
+Ear pain - Pediatric Consult,Pediatrics - Neonatal,2
+Pigtail Catheter Insertion,Cardiovascular / Pulmonary,1
+Lumbar Puncture,Neurosurgery,2
+Selective Coronary Angiography & Angioplasty,Cardiovascular / Pulmonary,4
+Small Bowel Obstruction,Gastroenterology,7
+Stress Test Bruce Protocol,Radiology,13
+Conjunctivitis,Ophthalmology,2
+"Heart Catheterization, Ventriculography, & Angiography - 11",Cardiovascular / Pulmonary,4
+Discharge Summary - Respiratory Failure,Cardiovascular / Pulmonary,8
+Angina,Cardiovascular / Pulmonary,7
+Bunionectomy & Akin Osteotomy,Orthopedic,3
+Elevated Cardiac Enzymes,Cardiovascular / Pulmonary,17
+Premature retina and vitreous,Ophthalmology,6
+Suspected Seizure Activity,Neurology,2
+Neurologic Consultation - 3,Neurology,2
+Complex Cyanotic Congenital Heart Disease,Cardiovascular / Pulmonary,4
+Blood In Toilet,Gastroenterology,8
+Septorhinoplasty,ENT - Otolaryngology,1
+Bronchoscopy - 6,Cardiovascular / Pulmonary,10
+ORIF Wrist - Acumed Locking Plate,Orthopedic,3
+Echocardiogram,Cardiovascular / Pulmonary,5
+Physical Therapy - Ankle Sprain,Orthopedic,2
+Total Knee Arthroplasty - Right,Orthopedic,3
+Psychiatric Evaluation - 2,Psychiatry / Psychology,2
+Orthopedic Consult - 4,Orthopedic,2
+Arthroscopic Debridement - Shoulder,Orthopedic,3
+YAG Laser Capsulotomy - 1,Ophthalmology,6
+Total Hip Replacement,Orthopedic,3
+Esophagoscopy & Foreign Body Removal - 1,Gastroenterology,10
+Shunt Revision - 2,Neurosurgery,1
+MRI Ankle - 2,Orthopedic,16
+GI Consultation - 4,Gastroenterology,7
+Fistulogram & Angioplasty,Cardiovascular / Pulmonary,12
+Colon Cancer Consult,Gastroenterology,8
+Migraine without Aura - Consult,Neurology,7
+ORIF Mandibular Fracture & Dental Implant Removal,Orthopedic,1
+Discharge Summary - COPD,Cardiovascular / Pulmonary,0
+Cardiac Catheterization - 3,Cardiovascular / Pulmonary,4
+Cardiac Consultation - 6,Cardiovascular / Pulmonary,7
+Fiberoptic Bronchoscopy with Lavage,Cardiovascular / Pulmonary,10
+Bronchiolitis - Discharge Summary,Cardiovascular / Pulmonary,0
+MRI Brain and C-T Spine,Neurology,11
+Endoscopic Sinus Surgery,ENT - Otolaryngology,1
+Phacoemulsification & Cataract Extraction,Ophthalmology,6
+Neuropsychological Evaluation - 4,Neurology,2
+Neuroblastoma - Consult,Hematology - Oncology,8
+Appendectomy - 1,Gastroenterology,1
+Deglutition Study - Modified Barium swallow,Gastroenterology,10
+Thyroid Mass Consult,Hematology - Oncology,7
+Cardiac Cath & Coronary Angiography,Cardiovascular / Pulmonary,4
+Bunionectomy & Metatarsal Osteotomy,Orthopedic,3
+Neuropsychological Evaluation - 1,Psychiatry / Psychology,2
+Nasal Septoplasty & Tonsillectomy,ENT - Otolaryngology,1
+Coronary CT Angiography (CCTA) - 1,Cardiovascular / Pulmonary,4
+Cystourethroscopy & Retrograde Pyelogram - 1,Nephrology,1
+Radiofrequency Ablation,Orthopedic,12
+Lung Cancer Followup,Hematology - Oncology,7
+Stress Test Dobutamine Myoview,Cardiovascular / Pulmonary,13
+Psychosocial Eval - Donor - 1,Nephrology,2
+Ultrasound OB - 5,Obstetrics / Gynecology,14
+Delivery Note - 2,Obstetrics / Gynecology,15
+2-D Doppler,Cardiovascular / Pulmonary,5
+MRI T-L Spine - Schistosomiasis,Radiology,11
+Laparoscopic Appendectomy - 3,Gastroenterology,1
+"D&C, Laparoscopy, & Salpingectomy",Obstetrics / Gynecology,15
+Mitral Valve Repair & Annuloplasty,Cardiovascular / Pulmonary,1
+Endoscopic Sinus Surgery,ENT - Otolaryngology,1
+Pectoralis Tendon Repair,Orthopedic,3
+Colonoscopy Template - 4,Gastroenterology,10
+Thoracoscopy/Thoracotomy,ENT - Otolaryngology,1
+Diverticulectomy & Laparotomy,Gastroenterology,1
+Neuropsychological Evaluation,Neurology,2
+Consult - Jaw Pain,ENT - Otolaryngology,7
+Elbow Pain - Consult,Orthopedic,2
+Cardiac Consult & Cardioversion,Cardiovascular / Pulmonary,17
+Cardiac Catheterization,Cardiovascular / Pulmonary,4
+Heart Catheterization & Ventriculogram,Cardiovascular / Pulmonary,4
+Pulmonary Valve Stenosis,Cardiovascular / Pulmonary,4
+Anterior Cervical Discectomy & Interbody Fusion - 1,Neurosurgery,9
+Cecal Polyp Resection,Gastroenterology,1
+Low-Transverse C-Section - 8,Obstetrics / Gynecology,15
+Transthoracic Echocardiography,Cardiovascular / Pulmonary,5
+Ultrasound - Carotid - 3,Cardiovascular / Pulmonary,16
+IV Procainamide Infusion,Cardiovascular / Pulmonary,1
+Tonsillectomy & Adenoidectomy - 1,ENT - Otolaryngology,1
+Iron deficiency anemia,Hematology - Oncology,7
+Ultrasound OB - 5,Radiology,14
+Facetectomy & Foraminotomy,Neurosurgery,9
+Transesophageal Echocardiogram,Radiology,5
+Complete Physical - Female,Obstetrics / Gynecology,8
+OB/GYN Consultation - 2,Obstetrics / Gynecology,8
+Pericardial Effusion,Cardiovascular / Pulmonary,17
+Gastroenterology - Letter,Gastroenterology,8
+Sports Physical - 1,Pediatrics - Neonatal,8
+Discharge Summary - Respiratory Failure,Cardiovascular / Pulmonary,8
+Ultrasound OB - 4,Obstetrics / Gynecology,14
+1-year-old Exam - H&P,Pediatrics - Neonatal,7
+Right Shoulder Hemiarthroplasty,Orthopedic,3
+Heart Catheterization,Cardiovascular / Pulmonary,4
+Nasolabial Fold Elevation,ENT - Otolaryngology,1
+Angiography & Catheterization,Cardiovascular / Pulmonary,4
+"Heart Catheterization, Ventriculography, & Angiography - 8",Cardiovascular / Pulmonary,4
+Psychosocial Eval - Donor,Psychiatry / Psychology,2
+Ultrasound - Carotid - 2,Cardiovascular / Pulmonary,1
+Bronchoalveolar lavage.,Cardiovascular / Pulmonary,1
+Total Knee Arthroplasty,Orthopedic,3
+Cardiac Catheterization - 11,Cardiovascular / Pulmonary,4
+Barium Swallow Study & Speech Evaluation,Gastroenterology,2
+MRI C3 - Cord Compression.,Radiology,11
+Ventricular Ectopy - Consult,Cardiovascular / Pulmonary,7
+MRI T-L Spine - Schistosomiasis,Orthopedic,11
+MRI Brain - Lyme Disease,Neurology,16
+Epidural Hematoma,Neurology,11
+Osteotomy & Bunionectomy,Orthopedic,3
+Bronchiolitis - 2-month-old,Cardiovascular / Pulmonary,8
+Lower back pain,Orthopedic,2
+Renal Failure Evaluation,Nephrology,8
+Heart Catheterization & Angiography - 1,Cardiovascular / Pulmonary,4
+Psych Consult - Lethargy,Psychiatry / Psychology,2
+Congestion - 21-day-old,Pediatrics - Neonatal,8
+Intractable Epilepsy,Neurology,2
+Knee Injury,Orthopedic,2
+Status Post Tympanoplasty,ENT - Otolaryngology,2
+Hallux Infected Bone Resection,Orthopedic,3
+Coronary CT Angiography (CCTA) - 6,Cardiovascular / Pulmonary,4
+Pituitary Adenomectomy,Neurosurgery,1
+Chest Pain - Office Note,Cardiovascular / Pulmonary,0
+Colonoscopy with Biopsy - 3,Gastroenterology,10
+MRI Ankle - 1,Radiology,16
+Falls - Discharge Summary,Psychiatry / Psychology,0
+Triple Lumen Catheter Insertion - 2,Cardiovascular / Pulmonary,1
+Port-A-Cath Insertion,Cardiovascular / Pulmonary,12
+Status Post Liver Transplant,Gastroenterology,8
+CT of Lumbar Spine w/o Contrast,Orthopedic,16
+Heart Catheterization & Angiography,Cardiovascular / Pulmonary,4
+Laryngoscopy,Cardiovascular / Pulmonary,10
+Physical Exam and Pap -3,Obstetrics / Gynecology,7
+Constipation - 1,Gastroenterology,8
+Craniotomy - Biparietal,Neurosurgery,1
+Consult - Abnormal EKG,Cardiovascular / Pulmonary,17
+D&C & Hysteroscopy - 1,Obstetrics / Gynecology,15
+CT Abdomen & Pelvis - 2,Gastroenterology,16
+OB/GYN - H&P,Obstetrics / Gynecology,7
+Anterior Cervical Discectomy & Arthrodesis - 2,Neurosurgery,9
+Consult - Migraine,Neurology,2
+Mantle Cell Lymphoma,Hematology - Oncology,8
+Bilateral Carotid Cerebral Angiogram,Neurology,1
+Psych Consult - Depression - 2,Psychiatry / Psychology,2
+Sports Physical - 3,Pediatrics - Neonatal,8
+Ulnar Nerve Transposition,Neurology,3
+SOAP - Lung Mass,Cardiovascular / Pulmonary,17
+Bipolar Affective Disorder - Consult,Psychiatry / Psychology,2
+Laparoscopic Supracervical Hysterectomy.,Obstetrics / Gynecology,15
+Thoracic Discectomy,Neurosurgery,9
+Lung adenocarcinoma Path Report,Cardiovascular / Pulmonary,1
+Psychosocial Eval for Kidney Transplant,Nephrology,7
+Reactive Airway Disease,Cardiovascular / Pulmonary,8
+Chest Tube Placement,Cardiovascular / Pulmonary,1
+Dual Chamber ICD Implantation,Cardiovascular / Pulmonary,12
+Physical Exam and Pap - 1,Obstetrics / Gynecology,7
+Abdominal Exploration,Gastroenterology,1
+Knee Arthroscopy,Orthopedic,3
+Ultrasound OB - 7,Radiology,14
+MRI Brain - SLE & Stroke,Neurology,11
+Bronchoscopy Brushings,Cardiovascular / Pulmonary,10
+Youngswick Osteotomy,Orthopedic,3
+Gastroscopy - 2,Gastroenterology,10
+Hepatobiliary Scan,Gastroenterology,16
+Microsuspension Direct Laryngoscopy & Biopsy,ENT - Otolaryngology,10
+2-D Echocardiogram - 1,Cardiovascular / Pulmonary,5
+Carotid Endarterectomy - 1,Cardiovascular / Pulmonary,1
+Transesophageal Echocardiogram,Cardiovascular / Pulmonary,5
+Sickle Cell Anemia - ER Visit,Hematology - Oncology,8
+Temporal Artery Biopsy,Neurosurgery,1
+Phenol Neurolysis & Botulinum Toxin Injection - 1,Neurology,1
+Eyelid Squamous Cell Carcinoma Excision,Hematology - Oncology,1
+Toronto Porcine Valve Insertion,Cardiovascular / Pulmonary,1
+Subcutaneous Transposition of Ulnar Nerve,Orthopedic,3
+Uvulopalatopharyngoplasty & Tonsillectomy,ENT - Otolaryngology,1
+Followup on Asthma,Cardiovascular / Pulmonary,7
+Sigmoidoscopy - 1,Gastroenterology,10
+Fat Harvesting,ENT - Otolaryngology,1
+CABG - Redo,Cardiovascular / Pulmonary,1
+Anterior Cervical Discectomy - 3,Neurosurgery,9
+Lysis of Pelvic Adhesions,Obstetrics / Gynecology,15
+Thrombectomy,Cardiovascular / Pulmonary,1
+Tessio Catheter Insertion,Cardiovascular / Pulmonary,1
+Pacemaker Interrogation,Cardiovascular / Pulmonary,12
+MRI C3 - Cord Compression.,Orthopedic,11
+Ultrasound OB - 6,Obstetrics / Gynecology,14
+SOAP - Temporal Mass,Neurology,2
+CT Lumbar Spine - 2,Neurology,16
+Psych Consult - Lethargy,Psychiatry / Psychology,2
+Q-Fever Endocarditis,Cardiovascular / Pulmonary,8
+Phacoemulsification & Cataract Extraction - 1,Ophthalmology,6
+Coronary CT Angiography (CCTA) - 3,Radiology,4
+Psychosocial Eval - Donor,Psychiatry / Psychology,2
+Hyperfractionation,Hematology - Oncology,2
+Endoscopy - 3,Gastroenterology,10
+BMT - Bilateral Myringotomy Tubes,ENT - Otolaryngology,2
+CT Abdomen & Pelvis - OB-GYN,Obstetrics / Gynecology,16
+TIA - Cosult,Neurology,2
+Biopsy - Cervical Lymph Node,Hematology - Oncology,1
+Heart Catheterization - 1,Cardiovascular / Pulmonary,4
+Pleurocentesis,Cardiovascular / Pulmonary,1
+Flexible Bronchoscopy,Cardiovascular / Pulmonary,10
+Cardio/Pulmo Discharge Summary,Cardiovascular / Pulmonary,0
+Hemivulvectomy,Obstetrics / Gynecology,1
+Total Knee Arthoplasty - Right - 1,Orthopedic,3
+End Stage Renal Disease - Consult,Nephrology,8
+MRI Ankle - 2,Radiology,16
+Dorsal Extensor Compartment Release,Orthopedic,3
+Radical Mastectomy,Obstetrics / Gynecology,1
+Preeclampsia,Obstetrics / Gynecology,17
+Falls - Discharge Summary,Psychiatry / Psychology,0
+Ophthalmology - Letter - 1,Ophthalmology,6
+MRI Ankle - 2,Orthopedic,16
+MRI Cervical Spine - Chiropractic Specific,Orthopedic,16
+Neuropsychological Evaluation - 5,Psychiatry / Psychology,2
+Craniotomy,Neurosurgery,1
+Rheumatology Progress Note,Orthopedic,2
+Skull Base Reconstruction,Neurosurgery,1
+Dobutamine Stress Test,Cardiovascular / Pulmonary,13
+CABG - Redo,Cardiovascular / Pulmonary,1
+Laminotomy & Microdissection,Neurosurgery,1
+Ischemic Cecum - Consult,Gastroenterology,7
+Cardiac Catheterization - 7,Cardiovascular / Pulmonary,4
+Craniotomy & Neuronavigation,Neurology,1
+Cholecystectomy - Open,Gastroenterology,1
+Proctitis & Proctocolitis,Gastroenterology,8
+BCCa Excision - Cheek,Hematology - Oncology,1
+Bronchoscopy & Bronchoalveolar Lavage,Cardiovascular / Pulmonary,10
+Acute Intracerebral Hemorrhage,Radiology,11
+Hypertension - Progress Note,Cardiovascular / Pulmonary,7
+Consult - Atrial Fibrillation - 1,Cardiovascular / Pulmonary,17
+Thrombocytosis Followup,Hematology - Oncology,7
+Neurologic Consultation - 1,Neurology,2
+3-Dimensional Simulation,Hematology - Oncology,1
+Esophagogastroduodenoscopy with Biopsies -2,Gastroenterology,10
+Colonoscopy with Biopsy - 4,Gastroenterology,10
+Ophthalmology - Letter - 3,Ophthalmology,6
+Rotator cuff syndrome - H&P,Orthopedic,7
+Total Knee Replacement - NexGen,Orthopedic,3
+Lumbar Re-exploration,Neurosurgery,9
+Carotid Endarterectomy,Cardiovascular / Pulmonary,1
+Shiley Tracheostomy Tube Insertion,Cardiovascular / Pulmonary,1
+Discharge Summary - Respiratory Distress,Pediatrics - Neonatal,8
+Bipolar Affective Disorder - Consult,Psychiatry / Psychology,2
+Internal Jugular Vein Catheter Insertion,Nephrology,1
+TAH & Salpingo-oophorectomy - 1,Obstetrics / Gynecology,15
+EGD - 1,Gastroenterology,10
+CT Abdomen & Pelvis - 7,Gastroenterology,16
+PICC line insertion,Cardiovascular / Pulmonary,1
+Cardiology Progress Note - 1,Cardiovascular / Pulmonary,0
+Osteotomy & Bunionectomy - 1,Orthopedic,3
+Psychiatric Discharge Summary - 2,Psychiatry / Psychology,0
+Immunohistochemical Study,Cardiovascular / Pulmonary,1
+Congestion & Fever - 2-month-old,Pediatrics - Neonatal,8
+Cemented Hemiarthroplasty & Biopsy,Orthopedic,3
+Bronchoscopy - 8,Cardiovascular / Pulmonary,10
+Discharge Summary - Urology & Nephrology,Nephrology,0
+Austin-Moore Bipolar Hemiarthroplasty,Orthopedic,3
+Cerebral Palsy - Letter,Neurology,2
+Heart Catheterization & Ventriculogram,Cardiovascular / Pulmonary,4
+Dupuytren Disease Excision,Orthopedic,3
+Direct Laryngoscopy,Cardiovascular / Pulmonary,10
+Atrial Fibrillation - SOAP,Cardiovascular / Pulmonary,17
+Abnormal Echocardiogram,Cardiovascular / Pulmonary,17
+Nephrology Office Visit - 2,Nephrology,7
+Anterior Cervical Discectomy & Decompression - 1,Neurosurgery,9
+Esophagogastroduodenoscopy - 10,Gastroenterology,10
+Bronchoscopy - Fiberoptic,Cardiovascular / Pulmonary,10
+Psych Consult - Depression - 1,Psychiatry / Psychology,2
+Cardiac Catheterization - 11,Cardiovascular / Pulmonary,4
+Lung Biopsy Pathology Report,Cardiovascular / Pulmonary,1
+MRI L-Spine - Subarachnoid Seeding,Neurology,11
+Bronchiolitis - 2-month-old,Cardiovascular / Pulmonary,8
+Reflex Sympathetic Dystrophy - Letter,Neurology,2
+Low-Transverse C-Section - 9,Obstetrics / Gynecology,15
+Pars Plana Vitrectomy & Lensectomy,Ophthalmology,6
+Low -Segment C-Section,Obstetrics / Gynecology,15
+Mayoview - 2,Cardiovascular / Pulmonary,13
+Pilon Fracture External Fixation,Orthopedic,3
+Cardiac Allograft Transplant,Cardiovascular / Pulmonary,1
+Left Lower Quadrant Pain - ER Visit,Obstetrics / Gynecology,7
+Hepatic Encephalopathy,Gastroenterology,8
+Tubal Fulguration - Laparoscopic,Obstetrics / Gynecology,15
+I&D & Open Reduction - Forearm,Orthopedic,3
+Spinal Fusion & Instrumentation,Orthopedic,9
+Neuroblastoma - Consult,Pediatrics - Neonatal,8
+Exercise Stress Test - 4,Cardiovascular / Pulmonary,13
+Cerebral Angiogram & MRA,Neurology,11
+Lung Cancer & MI - Hospice Cosult,Cardiovascular / Pulmonary,8
+"Arthroscopy, Arthrotomy, Bankart lesion repair",Orthopedic,3
+Epidural Hematoma Evacuation,Neurosurgery,9
+First Followup - Shunt Surgery,Neurology,2
+CT Abdomen & Pelvis,Gastroenterology,16
+Breast Radiation Therapy Followup,Hematology - Oncology,7
+Ahmed Shunt Placement,Ophthalmology,6
+ESRD - Discharge Summary,Nephrology,8
+Endotracheal Intubation - 2,Cardiovascular / Pulmonary,10
+Knee Arthroplasty - Bilateral,Orthopedic,3
+Phenol Neurolysis & Botulinum Toxin Injection - 3,Neurosurgery,1
+Anterior Cervical Discectomy & Fusion - 6,Orthopedic,9
+Laminectomy & Discectomy & Facetectomy,Neurosurgery,9
+Ultrasound OB,Obstetrics / Gynecology,14
+Colonoscopy - 14,Gastroenterology,10
+Thromboendarterectomy,Cardiovascular / Pulmonary,1
+Mesothelioma - Thoracotomy & Lobectomy,Hematology - Oncology,1
+Temporal Artery Biopsy,Neurology,1
+Arachnoid Cyst,Neurology,2
+Pulmonary Hypertension - Pediatric Consult,Cardiovascular / Pulmonary,17
+Neck Dissection,ENT - Otolaryngology,1
+CT Chest - 1,Cardiovascular / Pulmonary,16
+Dysphagia & Hematemesis,Gastroenterology,8
+Laminectomy & Foraminotomy & Cervical Fusion,Neurosurgery,9
+Laryngoscopy & Vocal Cord Biopsy,ENT - Otolaryngology,10
+"Heart Catheterization, Ventriculography, & Angiography - 6",Cardiovascular / Pulmonary,4
+EEG Monitoring Study,Neurology,2
+"CT Head, Facial Bones, Cervical Spine",Neurology,16
+Psychiatric Evaluation - 3,Psychiatry / Psychology,2
+Neuroplasty,Neurosurgery,9
+Cardiology Progress Note - 2,Cardiovascular / Pulmonary,0
+Endometrial Cancer Followup,Hematology - Oncology,7
+Scott Cannula,Neurosurgery,1
+CT Brain - SAH,Neurology,11
+Shoulder Contusion,Orthopedic,7
+Multiple Medical Problems - Discharge Summary,Gastroenterology,0
+CT Scan of Brain with Contrast,Neurology,11
+Thoracotomy & Esophageal Exploration,Cardiovascular / Pulmonary,1
+Electroencephalogram - 3,Neurology,16
+CVA - Discharge Summary,Neurology,0
+Hardware Removal - Metatarsal,Orthopedic,3
+Anterior Cervical Discectomy - 4,Orthopedic,9
+Hip Fracture - ER Consult,Orthopedic,2
+Laparoscopic Cholecystectomy - 1,Gastroenterology,1
+Mullerian Adenosarcoma,Hematology - Oncology,0
+Iliopsoas Hematoma - 2,Neurology,11
+OB/GYN Consultation - 5,Obstetrics / Gynecology,7
+"ORIF, Closed Reduction, Screw Fixation, Etc.",Orthopedic,3
+Discharge Summary - Respiratory Distress,Pediatrics - Neonatal,8
+Exploratory Laparotomy & Colon Resection,Gastroenterology,1
+Lymphoblastic Leukemia - Consult,Hematology - Oncology,8
+Central Line Placement,Cardiovascular / Pulmonary,1
+Coronary Angiography,Cardiovascular / Pulmonary,4
+Laparoscopic Cholecystectomy & Liver Cyst Excision,Gastroenterology,1
+Hand Pain - Consult,Orthopedic,2
+YAG Laser Capsulotomy,Ophthalmology,6
+Otitis Media,ENT - Otolaryngology,2
+Coronary Angiography & Abdominal Aortography,Cardiovascular / Pulmonary,4
+Echocardiogram - 3,Cardiovascular / Pulmonary,5
+CT Angiography,Cardiovascular / Pulmonary,16
+D&C & Laparoscopy - 2,Obstetrics / Gynecology,15
+Cardiac Consultation - 5,Cardiovascular / Pulmonary,7
+Neuro Consult - Leg Weakness,Neurology,2
+Lumbar Puncture - 2,Neurosurgery,1
+2-D Echocardiogram - 3,Cardiovascular / Pulmonary,5
+MRI T-L Spine - Schistosomiasis,Radiology,11
+Carotid Endarterectomy - 2,Cardiovascular / Pulmonary,1
+Chronic Kidney Disease - Consult,Nephrology,8
+MRI Brain - Bilateral Thalamic Strokes,Neurology,11
+Port-A-Cath Insertion - 6,Cardiovascular / Pulmonary,12
+MRI Spine - Epidural Lipoma,Radiology,11
+Diagnostic Laparoscopy,Obstetrics / Gynecology,15
+Leg Pain - Progress Note,Orthopedic,2
+Aplastic Anemia Followup,Hematology - Oncology,7
+Fiberoptic Bronchoscopy,Cardiovascular / Pulmonary,10
+Consult - Coronary Artery Disease,Cardiovascular / Pulmonary,17
+Anemia - Consult,Hematology - Oncology,8
+TAH & Salpingo-oophorectomy & Lysis of Adhesions,Obstetrics / Gynecology,15
+Cardiac Catheterization - 10,Cardiovascular / Pulmonary,4
+Barium Swallow Study Evaluation,Gastroenterology,2
+Surgical Closure of Gastrostomy,Gastroenterology,1
+Encephalopathy  - Rehab Consult,Neurology,8
+Physical Therapy - Osteoarthritis,Orthopedic,2
+ORIF - 2,Orthopedic,3
+Anterior Cervical Discectomy & Fusion - Discharge Summary,Orthopedic,9
+"Suction, Dilation, & Curettage - 1",Obstetrics / Gynecology,15
+Consult - Atrial Fibrillation,Cardiovascular / Pulmonary,17
+"Heart Catheterization, Ventriculography, & Angiography - 12",Cardiovascular / Pulmonary,4
+Thoracoabdominal Aneurysm,Cardiovascular / Pulmonary,1
+Wound Closure & Debridement - Hydrocephalus,Neurosurgery,1
+Pulmonary Consultation - 2,Cardiovascular / Pulmonary,8
+Ankle Sprain - H&P,Orthopedic,8
+Subclavian Central Venous Catheter Insertion,Cardiovascular / Pulmonary,1
+Physical Therapy - Synovitis,Orthopedic,2
+Difficulty Breathing - ER Visit,Pediatrics - Neonatal,8
+Anemia & Leukemia Followup,Hematology - Oncology,7
+MRI Wrist - 1,Orthopedic,16
+MRI Brain - Pilocytic Astrocytoma,Neurology,11
+MRI Brain & T-spine - Demyelinating disease.,Orthopedic,11
+Ethmoidectomy & Nasal Polypectomy,ENT - Otolaryngology,1
+Neuroblastoma - Consult,Neurology,8
+Colonoscopy - 18,Gastroenterology,10
+Bronchoscopy - 5,Cardiovascular / Pulmonary,10
+Mantle Cell Lymphoma - Consult,Hematology - Oncology,7
+Midface Lift & Blepharoplasty,Ophthalmology,1
+Lobectomy & Lymphadenectomy,Cardiovascular / Pulmonary,1
+Tonsillectomy & Adenoidectomy - 3,ENT - Otolaryngology,1
+"Esophagogastrectomy, Jejunostomy, & Chest Tubes",Cardiovascular / Pulmonary,1
+PAF - 6-Month Followup,Cardiovascular / Pulmonary,7
+BMT & T&A,ENT - Otolaryngology,1
+Selective Coronary Angiography & Angioplasty,Cardiovascular / Pulmonary,4
+Rhytidectomy & Blepharoplasty,Ophthalmology,1
+Cardiology Office Visit - 2,Cardiovascular / Pulmonary,13
+CT Brain - Hemangioma,Neurology,11
+Pinning - Ulna,Orthopedic,3
+MRI T-Spine,Orthopedic,11
+Colonoscopy - 2,Gastroenterology,10
+Bronchoscopy & Foreign Body Removal,Cardiovascular / Pulmonary,10
+GI Bleed - Discharge Summary,Gastroenterology,17
+Consult - Breast Cancer - 1,Hematology - Oncology,7
+Lateral Epicondylitis Release,Orthopedic,1
+Exercise Stress Test - 3,Cardiovascular / Pulmonary,13
+Angina - Consult,Cardiovascular / Pulmonary,8
+Ear Cartilage Graft,ENT - Otolaryngology,1
+AC Separation Revision & Hardware Removal,Orthopedic,3
+Pulmonary Embolism,Cardiovascular / Pulmonary,17
+Pain Management Consult - 2,Orthopedic,2
+Frameless Stereotactic Radiosurgery,Neurology,1
+Anterior Cervical Discectomy & Fusion - 9,Neurosurgery,9
+Ruptured Globe Repair - Cornea,Ophthalmology,6
+Exercise Stress Test - 2,Cardiovascular / Pulmonary,13
+Duplex Ultrasound - Legs,Cardiovascular / Pulmonary,1
+Double Lumen Port Inserstion,Cardiovascular / Pulmonary,1
+Foot pain Consultation,Orthopedic,2
+Psych Consult - Paranoia,Psychiatry / Psychology,2
+MRI Elbow - 1,Orthopedic,16
+Abdominal Abscess I&D,Gastroenterology,1
+CT Abdomen & Pelvis - 1,Gastroenterology,16
+Patent Ductus Arteriosus,Cardiovascular / Pulmonary,4
+"Heart Catheterization, Ventriculography, & Angiography - 2",Cardiovascular / Pulmonary,4
+Otitis Media - H&P,Pediatrics - Neonatal,7
+Exercise Stress Test,Cardiovascular / Pulmonary,13
+Needle Localized Excision - Breast Neoplasm,Obstetrics / Gynecology,1
+Nephrectomy - Partial,Nephrology,1
+Thoracotomy & Bronchoscopy,Cardiovascular / Pulmonary,1
+"Heart Catheterization, Ventriculography, & Angiography - 12",Cardiovascular / Pulmonary,4
+Followup on Asthma,Cardiovascular / Pulmonary,7
+Ankle Pain - Consult,Orthopedic,2
+Psychosocial Eval - Donor - 1,Psychiatry / Psychology,2
+Arterial Imaging,Cardiovascular / Pulmonary,1
+Abdominosacrocolpopexy,Obstetrics / Gynecology,15
+Medial Branch Rhizotomy,Orthopedic,12
+Cardio/Pulmo Discharge Summary,Cardiovascular / Pulmonary,0
+Anterior Cervical Decompression,Neurosurgery,9
+Adenosine Nuclear Scan,Cardiovascular / Pulmonary,13
+Discharge Summary - Mesothelioma,Hematology - Oncology,0
+Lung Cancer & MI - Hospice Cosult,Cardiovascular / Pulmonary,8
+CT Stone Protocol,Nephrology,16
+Myoclonic Epilepsy,Neurology,2
+CABG x5,Cardiovascular / Pulmonary,1
+CT Abdomen & Pelvis,Nephrology,16
+MRI Foot - 1,Orthopedic,16
+Discharge Summary - Mesothelioma - 1,Hematology - Oncology,17
+Cardiac Catheterization - 8,Cardiovascular / Pulmonary,4
+Ligament Reconstruction & Tendon Interposition Arthroplasty,Orthopedic,3
+Pneumothorax & Subcutaneous Emphysema,Cardiovascular / Pulmonary,8
+Frameless Stereotactic Radiosurgery,Neurosurgery,1
+Laparoscopy & Laparoscopic Appendectomy,Gastroenterology,1
+Bronchoscopy - 3,Cardiovascular / Pulmonary,10
+Chest PA & Lateral,Cardiovascular / Pulmonary,16
+Consult - Alzheimer disease,Neurology,2
+MRI Brain: Thalamic Infarct,Neurology,11
+Cardiac Catheterization - 10,Cardiovascular / Pulmonary,4
+Myocardial Perfusion Imaging - 3,Cardiovascular / Pulmonary,17
+Psych Consult - Depression - 0,Psychiatry / Psychology,2
+ORIF & Closed Reduction,Orthopedic,3
+Pyeloplasty - Robotic,Nephrology,1
+Neuropsychological Evaluation - 3,Neurology,2
+CT Lumbar Spine - 1,Neurology,16
+2-D Echocardiogram - 5,Cardiovascular / Pulmonary,5
+Foul-Smelling Urine,Gastroenterology,7
+Sample Normal Exam - ENT,ENT - Otolaryngology,2
+COPD & Bronchitis - Discharge Summary,Cardiovascular / Pulmonary,0
+Arm Pain - Neuro Consult,Neurology,2
+EMG/Nerve Conduction Study - 3,Neurology,2
+Cardiomyopathy & Hypotension - Consult,Cardiovascular / Pulmonary,7
+CT Abdomen & Pelvis - 10,Gastroenterology,16
+Diverticulectomy & Laparotomy,Gastroenterology,1
+Thoracentesis,Cardiovascular / Pulmonary,1
+Cardiac Allograft Transplant,Cardiovascular / Pulmonary,1
+Thrombectomy AV Shunt,Cardiovascular / Pulmonary,1
+Pulmonary Function Test - 1,Cardiovascular / Pulmonary,10
+Mayoview,Cardiovascular / Pulmonary,13
+Psych Consult - Psychosis - 1,Psychiatry / Psychology,2
+Breast Calcifications - Preop Consult,Obstetrics / Gynecology,7
+Elevated BNP - Consult,Cardiovascular / Pulmonary,8
+Craniopharyngioma - Postop,Hematology - Oncology,2
+Consult - Rectal Bleeding,Gastroenterology,8
+Gastroscopy - 1,Gastroenterology,10
+Bilateral Carotid Cerebral Angiogram,Neurosurgery,1
+MRI Cervical Spine - 2,Neurology,16
+Supraclavicular Lymphadenopathy,Cardiovascular / Pulmonary,7
+Anterior Cervical Discectomy & Arthrodesis - 1,Orthopedic,9
+Video EEG,Neurology,2
+EGD - 2,Gastroenterology,2
+SOAP - Shortness of Breath,Cardiovascular / Pulmonary,17
+MRI C-Spine - C5-6 Disk Herniation,Orthopedic,11
+CT Head - 3,Neurology,16
+Bronchoscopy - Pediatric,Cardiovascular / Pulmonary,10
+Difficulty Breathing - ER Visit,Cardiovascular / Pulmonary,8
+Colon Polyps - Genetic Counseling,Gastroenterology,7
+First Followup - Shunt Surgery,Neurosurgery,2
+Cardiac Catheterization - 8,Cardiovascular / Pulmonary,4
+Clostridium Difficile Colitis Followup,Gastroenterology,8
+EMG/Nerve Conduction Study - 6,Neurology,2
+Sleep Study Interpretation,Neurology,2
+Renal Failure - Consult,Nephrology,7
+Neck Dissection,Hematology - Oncology,1
+MRI Brain - SLE & Stroke,Radiology,11
+Pericardial Effusion,Cardiovascular / Pulmonary,17
+Radionuclide Stress Test,Cardiovascular / Pulmonary,13
+"Heart Catheterization, Ventriculography, & Angiography - 9",Cardiovascular / Pulmonary,4
+"Heart Catheterization, Ventriculography, & Angiography - 14",Cardiovascular / Pulmonary,4
+Heart Catheterization - 2,Cardiovascular / Pulmonary,4
+Esophagoscopy & Foreign Body Removal,Gastroenterology,10
+ENT Consult,ENT - Otolaryngology,7
+Mantle Cell Lymphoma,Hematology - Oncology,8
+Coronary CT Angiography (CCTA) - 3,Cardiovascular / Pulmonary,4
+Biceps Tendon Repair,Orthopedic,3
+Pulmonary Function Test - 0,Cardiovascular / Pulmonary,10
+Well-woman checkup,Obstetrics / Gynecology,7
+Appendectomy - Laparoscopic,Gastroenterology,15
+Decreased Vision Consult,Ophthalmology,6
+Consult - Breast Cancer,Hematology - Oncology,7
+Total Knee Replacement - 1,Orthopedic,3
+Thoracoscopy & Thoracotomy - Mesothelioma,Cardiovascular / Pulmonary,1
+Bronchoscopy & Foreign Body Removal,Cardiovascular / Pulmonary,10
+Hysterectomy - Discharge Summary,Obstetrics / Gynecology,0
+Bilateral Carotid Cerebral Angiogram,Cardiovascular / Pulmonary,1
+Pulmonary Atresia,Cardiovascular / Pulmonary,4
+Cardiac Consultation - 1,Cardiovascular / Pulmonary,7
+Anterior Cervical Discectomy & Fusion - 2,Orthopedic,9
+C. Diff Colitis Consult,Gastroenterology,8
+Cardioversion - Direct Current,Cardiovascular / Pulmonary,17
+Hysterectomy & Salpingoophorectomy,Obstetrics / Gynecology,15
+Polycythemia Rubra Vera,Hematology - Oncology,7
+Neurologic Consultation - 4,Neurology,2
+Anaplastic Astrocytoma - Letter,Neurology,2
+Breast Cancer Followup,Hematology - Oncology,7
+Septal Defect Repair,Cardiovascular / Pulmonary,1
+Heart Cath & Coronary Angiography,Cardiovascular / Pulmonary,4
+Sleepiness - Consult,Neurology,2
+Knee Surgery - Discharge Summary,Orthopedic,0
+CT Brain: Subdural hematoma,Neurology,11
+Bronchoscopy - Pediatric,Cardiovascular / Pulmonary,10
+Thoracentesis - 2,Cardiovascular / Pulmonary,1
+Alzheimer Disease,Neurology,11
+Cystic Suprasellar Tumor Resection,Neurosurgery,1
+Preeclampsia,Cardiovascular / Pulmonary,17
+Bronchoscopy - 5,Cardiovascular / Pulmonary,10
+CT of Chest with Contrast,Cardiovascular / Pulmonary,16
+Lower Extremity Venous Doppler,Cardiovascular / Pulmonary,2
+Cardioversion,Cardiovascular / Pulmonary,17
+Cardiovascular - Letter,Cardiovascular / Pulmonary,13
+Carpal Ligament Reconstruction,Orthopedic,3
+HDR Brachytherapy,Hematology - Oncology,1
+Gastrointestinal Bleed - Discharge Summary,Gastroenterology,0
+Cervical Spinal Stenosis,Neurology,2
+Spinal fluid evaluation,Pediatrics - Neonatal,8
+Cystic Fibrosis,Cardiovascular / Pulmonary,2
+"Heart Catheterization, Ventriculography, & Angiography - 4",Cardiovascular / Pulmonary,4
+Infant Not Gaining Weight,Pediatrics - Neonatal,8
+Foreign Body Removal - Foot - 1,Orthopedic,3
+Brain MRI - Pituitary Adenoma,Neurology,11
+Holter Monitor Report - 2,Cardiovascular / Pulmonary,13
+Mesothelioma - Pleural Biopsy,Hematology - Oncology,1
+Thrombectomy,Cardiovascular / Pulmonary,1
+Bronchoscopy & Lobectomy,Cardiovascular / Pulmonary,1
+Coronary CT Angiography (CCTA) - 4,Cardiovascular / Pulmonary,4
+Decompressive Laminectomy,Neurosurgery,9
+EEG,Neurology,16
+Vitrectomy - 3,Ophthalmology,6
+Tilt Table Test,Cardiovascular / Pulmonary,13
+de Quervain Release - Carpal,Orthopedic,3
+Pleurocentesis,Cardiovascular / Pulmonary,1
+Delivery Note - 1,Obstetrics / Gynecology,15
+Broviac Catheter Placement,Cardiovascular / Pulmonary,12
+Total Hip Arthroplasty - Revision,Orthopedic,3
+Renal Insufficiency - Consult,Nephrology,8
+Arthroscopic SLAP lesion,Orthopedic,3
+Colon Polyps - Genetic Counseling,Hematology - Oncology,7
+Cardiolite Treadmill Stress Test,Cardiovascular / Pulmonary,13
+Epigastric Herniorrhaphy,Gastroenterology,1
+Clogged AV Shunt - Consult,Nephrology,8
+Non-Small Cell Lung Cancer - Consult,Hematology - Oncology,8
+Microlaryngoscopy,Cardiovascular / Pulmonary,10
+Exudative Tonsillitis,ENT - Otolaryngology,2
+Cardiac Catheterization - 9,Cardiovascular / Pulmonary,4
+Pre-Eclampsia & Eclampsia,Obstetrics / Gynecology,2
+Rectal Bleeding - 1-year-old,Gastroenterology,8
+Connective Tissue Disorder,Ophthalmology,6
+Phacoemulsification of Cataract - 1,Ophthalmology,6
+MRI Knee - 5,Orthopedic,16
+Chest Tube Insertion,Cardiovascular / Pulmonary,1
+Mitral Valve Repair & Annuloplasty,Cardiovascular / Pulmonary,1
+RICE Therapy,Orthopedic,2
+Psychosocial Eval - Donor - 2,Psychiatry / Psychology,2
+CT Angiography,Cardiovascular / Pulmonary,16
+Moyamoya Disease,Radiology,11
+Arnold Chiari II with Syrinx,Neurology,11
+Open Plantar Fasciotomy,Orthopedic,3
+Delayed ORIF,Orthopedic,3
+Transesophageal Echocardiography Probe,Cardiovascular / Pulmonary,1
+Adenosine Nuclear Scan,Cardiovascular / Pulmonary,13
+External Cephalic Version,Obstetrics / Gynecology,15
+IME & Record Review - Orthopedic,Orthopedic,2
+Colonoscopy - 9,Gastroenterology,10
+Bronchoscopy - 9,Cardiovascular / Pulmonary,10
+Endotracheal Intubation,Cardiovascular / Pulmonary,17
+Hypertension & Cardiomyopathy,Cardiovascular / Pulmonary,8
+Fistulogram & Angioplasty,Cardiovascular / Pulmonary,12
+Gardnerella Bacterial Vaginosis,Obstetrics / Gynecology,7
+"Laminotomy, Facetectomy & Foraminotomy",Orthopedic,9
+Phacoemulsification & Lens Implantation - 1,Ophthalmology,6
+Pneumonia - Discharge Summary,Cardiovascular / Pulmonary,0
+Consult - Normal Pressure Hydrocephalus,Neurology,2
+Consult - Atrial Fibrillation - 2,Cardiovascular / Pulmonary,17
+Endotracheal Intubation - 1,Cardiovascular / Pulmonary,10
+"Heart Catheterization, Ventriculography, & Angiography - 19",Cardiovascular / Pulmonary,4
+Feet & Hand Cramping,Neurology,2
+Bronchoscopy - 1,Cardiovascular / Pulmonary,10
+Exudative Tonsillitis,ENT - Otolaryngology,2
+Thoracic Discectomy,Orthopedic,9
+Lymphoma - Consult,Hematology - Oncology,7
+TLIF,Orthopedic,9
+Anterior Cervical Discectomy & Fusion - 4,Neurosurgery,9
+Total Abdominal Hysterectomy - Followup,Obstetrics / Gynecology,2
+Q-Fever Endocarditis,Cardiovascular / Pulmonary,8
+Mediastinal Mass Resection,Cardiovascular / Pulmonary,1
+Discharge Summary - Respiratory Distress,Cardiovascular / Pulmonary,8
+Neuropsychological Evaluation - 2,Neurology,2
+Video EEG - 1,Neurology,2
+Lower Extremity Arterial Doppler,Cardiovascular / Pulmonary,1
+2-D Doppler,Cardiovascular / Pulmonary,5
+New Onset Seizure,Neurology,2
+MRI T-L Spine - Schistosomiasis,Neurology,11
+MRI Foot - 2,Orthopedic,16
+Tonsillectomy & Adenoidectomy,ENT - Otolaryngology,1
+MRI Brain - Progressive Aphasia,Radiology,11
+Consult for Colostomy Reversal,Gastroenterology,8
+MRI Brain - SLE & Stroke,Neurology,11
+Colonoscopy - 4,Gastroenterology,10
+Phacoemulsification & Lens Implantation - 4,Ophthalmology,6
+Kyphosis,Orthopedic,2
+Subperiosteal Abscess Debridement,Orthopedic,3
+Dorsal Ramus & Branch Block,Orthopedic,12
+Telemetry Monitoring,Cardiovascular / Pulmonary,0
+Electroencephalogram - 2,Neurology,16
+ORIF - Malleolus,Orthopedic,3
+Pneumonia & COPD - Discharge Summary,Cardiovascular / Pulmonary,0
+Umbilical Hernia Repair - 1,Gastroenterology,1
+Anterior Cervical Decompression,Orthopedic,9
+Chest Wall Tumor Resection,Cardiovascular / Pulmonary,1
+CyberKnife Treatment - Followup,Cardiovascular / Pulmonary,8
+Trouble breathing,Cardiovascular / Pulmonary,7
+Stamm Gastrostomy Tube Placement,Gastroenterology,1
+Cardioversion - Direct Current,Cardiovascular / Pulmonary,17
+Pathology - Sesamoid Bone,Orthopedic,16
+TAH & Salpingooophorectomy,Obstetrics / Gynecology,15
+Hickman Central Venous Catheter Placement,Cardiovascular / Pulmonary,12
+Carpal Tunnel Release - 8,Orthopedic,3
+Multiple Medical Problems - Discharge Summary,Gastroenterology,0
+EMG/Nerve Conduction Study - 7,Neurology,2
+Mayoview,Cardiovascular / Pulmonary,13
+Orthopedic Consult - 1,Orthopedic,2
+Pre-Eclampsia & Eclampsia,Obstetrics / Gynecology,2
+Pulmonary Function Test - 2,Cardiovascular / Pulmonary,10
+Shortness Of Breath - Progress Note,Cardiovascular / Pulmonary,0
+Anterior Cervical Discectomy & Interbody Fusion - 3,Neurosurgery,9
+Arthroscopic Rotator Cuff Repair,Orthopedic,3
+Telemetry Monitoring,Cardiovascular / Pulmonary,0
+Phacoemulsification & Lens Implantation - 2,Ophthalmology,6
+Lumbar Radiculopathy - Consult,Orthopedic,2
+Transesophageal Echocardiogram - 2,Cardiovascular / Pulmonary,5
+Repeat C-section,Obstetrics / Gynecology,15
+Pacemaker (Single Chamber) - 2,Cardiovascular / Pulmonary,12
+Excision of Squamous Cell Carcinoma,Hematology - Oncology,1
+Hysterectomy - Discharge Summary - 1,Obstetrics / Gynecology,0
+Phacoemulsification & Cataract Extraction - 5,Ophthalmology,6
+Phacoemulsification & Lens Implantation - 3,Ophthalmology,6
+Cardiology - Letter,Cardiovascular / Pulmonary,2
+Carpal Tunnel Release - 4,Orthopedic,3
+MRI Foot - 3,Orthopedic,16
+Arthroscopic Rotator Cuff Repair - 2,Orthopedic,3
+ORIF - Discharge Summary,Orthopedic,0
+Hysterectomy - Discharge Summary - 2,Obstetrics / Gynecology,0
+Lower Extremity Venous Doppler,Cardiovascular / Pulmonary,2
+Pulmonary Medicine Clinic Followup,Cardiovascular / Pulmonary,0
+Lumbar Laminectomy,Orthopedic,9
+Vein Stripping,Neurology,1
+Laparoscopic Appendectomy,Gastroenterology,1
+Osteosynthesis,Orthopedic,3
+Cardiac Consult & Cardioversion,Cardiovascular / Pulmonary,17
+Anterior Cervical Discectomy & Interbody Fusion - 3,Orthopedic,9
+Diagnostic Cerebral Angiogram,Neurology,1
+CT Brain - Aneurysm,Neurology,11
+Coronary CT Angiography (CCTA) - 2,Cardiovascular / Pulmonary,4
+Anterior Lumbar Fusion,Orthopedic,9
+Mediastinal Exploration & Right Atrium Repair,Cardiovascular / Pulmonary,1
+Pulmonary Consultation - 2,Cardiovascular / Pulmonary,7
+Moyamoya Disease,Neurology,11
+Myringotomy/Tube Insertion - 3,ENT - Otolaryngology,1
+Shockwave Lithotripsy,Nephrology,1
+Thoracotomy & Bronchoscopy,Cardiovascular / Pulmonary,1
+Admission History & Physical - Nausea,Gastroenterology,7
+Normal L-Spine MRI,Orthopedic,2
+Sepsis - Consult,Hematology - Oncology,8
+Electroencephalogram - 1,Neurology,2
+Iliopsoas Hematoma - 1,Neurology,11
+Transesophageal Echocardiogram,Radiology,5
+Esophagogastroduodenoscopy - 13,Gastroenterology,10
+MRI Foot - 2,Radiology,16
+Pacemaker (Dual Chamber),Cardiovascular / Pulmonary,12
+Electroencephalogram - 4,Neurology,2
+Carpal Tunnel Release - 5,Orthopedic,3
+Pilonidal Cyst Excision,Hematology - Oncology,1
+Foreign Body Removal - Foot,Orthopedic,3
+Hematology Consult,Hematology - Oncology,8
+MRI Brain - Toxoplasmosis,Radiology,11
+Colonoscopy With Photos,Gastroenterology,10
+Sick Sinus Syndrome,Cardiovascular / Pulmonary,8
+Cardiovascular - Letter,Cardiovascular / Pulmonary,13
+CT Abdomen & Pelvis - 3,Gastroenterology,16
+ER Report - Stomach Pain,Gastroenterology,8
+MRI Brain - Progressive Aphasia,Neurology,11
+Sports Physical - 2,Pediatrics - Neonatal,8
+H&P - Infant with fever,Pediatrics - Neonatal,8
+"Heart Catheterization, Ventriculography, & Angiography - 12",Cardiovascular / Pulmonary,4
+DDDR Permanent Pacemaker,Cardiovascular / Pulmonary,12
+Neuropsychological Evaluation - 4,Psychiatry / Psychology,2
+Hypertension - Consult,Cardiovascular / Pulmonary,17
+Cholangiocarcinoma Consult,Hematology - Oncology,7
+Laminectomy & Discectomy & Facetectomy,Orthopedic,9
+Ultrasound OB - 3,Radiology,14
+CT C-Spine - 2,Orthopedic,16
+MRI Brain & T-spine - Demyelinating disease.,Neurology,11
+Carpal Tunnel Release - 9,Orthopedic,3
+Orthopedic Consult - 1,Orthopedic,2
+Skull Base Reconstruction,Neurology,1
+Low-Transverse C-Section & BTL,Obstetrics / Gynecology,15
+Chest discomfort & palpitations - Consult.,Cardiovascular / Pulmonary,7
+Arthroscopic Rotator Cuff Repair,Orthopedic,3
+MRI T-Spine - 1,Neurology,16
+Cardiology - Letter,Cardiovascular / Pulmonary,2
+Psych Consult - Anxiety,Psychiatry / Psychology,0
+CABG,Cardiovascular / Pulmonary,1
+Tonsillectomy,ENT - Otolaryngology,1
+Chest Pulmonary Angio,Cardiovascular / Pulmonary,16
+Esophagogastroduodenoscopy - 7,Gastroenterology,10
+EMG/Nerve Conduction Study - 8,Neurology,2
+EGD with Biopsy - 2,Gastroenterology,10
+New Onset Seizure,Pediatrics - Neonatal,2
+Cardiac Catheterization - 13,Cardiovascular / Pulmonary,4
+Nephrectomy - Radical (Laparoscopic),Nephrology,1
+Hysteroscopy & Laproscopy with Salpingooophorectomy,Obstetrics / Gynecology,15
+Microlaryngoscopy,Cardiovascular / Pulmonary,10
+Laparoscopic Cholecystectomy - 3,Gastroenterology,1
+Bronchoscopy - 8,Cardiovascular / Pulmonary,10
+CT Abdomen & Pelvis - 6,Nephrology,16
+Hematoma Evacuation,Neurosurgery,1
+MRI Brain - Toxoplasmosis,Neurology,11
+Renal Failure - Consult,Nephrology,7
+Bunionectomy & Flexor Tenotomy,Orthopedic,3
+Shiley Tracheostomy Tube Insertion,Cardiovascular / Pulmonary,1
+Carpal Tunnel Release - 2,Orthopedic,3
+MRI of Lumbar Spine w/o Contrast,Neurology,16
+Nephrectomy - Transplant,Nephrology,1
+Arthroplasty,Orthopedic,3
+Granulomatous Inflammation,Neurology,11
+Cardiac Catheterization - 6,Cardiovascular / Pulmonary,4
+High PT-INR - ER Visit,Cardiovascular / Pulmonary,17
+Discharge Summary - 10,Gastroenterology,0
+Lumbar Discogram,Orthopedic,1
+Biophysical Profile - 1,Obstetrics / Gynecology,14
+MRI T-Spine - Spinal Mets,Radiology,11
+Diagnostic Laparoscopy - 1,Obstetrics / Gynecology,15
+Lumbar Spine HNP - Consult,Orthopedic,2
+Anterior Cervical Discectomy & Fusion - 3,Neurosurgery,9
+Back Pain - Discharge Summary,Orthopedic,8
+Mediastinal Exploration,Cardiovascular / Pulmonary,1
+Subclavian Central Venous Catheter Insertion,Cardiovascular / Pulmonary,1
+Low-Transverse C-Section - 6,Obstetrics / Gynecology,15
+Holter Monitor Report - 3,Cardiovascular / Pulmonary,13
+Anterior Cervical Discectomy,Orthopedic,9
+Chest Closure,Cardiovascular / Pulmonary,1
+Endoscopic Carpal Tunnel & de Quervain's Release,Orthopedic,3
+Pituitary Tumor Resection,Neurosurgery,1
+Consult - Breast Cancer,Hematology - Oncology,7
+Thoracoscopy/Thoracotomy,Cardiovascular / Pulmonary,1
+Neurologic Consultation - 5,Neurology,2
+Consult - Coronary Artery Disease,Cardiovascular / Pulmonary,17
+Needle Localized Excision - Breast Neoplasm,Hematology - Oncology,1
+Knee DJD - Consult,Orthopedic,2
+Epidural Hematoma Evacuation,Neurology,9
+PAF - 6-Month Followup,Cardiovascular / Pulmonary,7
+Cauterization - Epistaxis,ENT - Otolaryngology,10
+Mesothelioma - Pleural Biopsy,Cardiovascular / Pulmonary,1
+Pacemaker (Dual Chamber) - 1,Cardiovascular / Pulmonary,12
+Echocardiogram - 3,Cardiovascular / Pulmonary,5
+Rotator Cuff Tear,Neurology,2
+"Heart Catheterization, Ventriculography, & Angiography - 16",Cardiovascular / Pulmonary,4
+Tongue Lesion Biopsy,Hematology - Oncology,1
+Anterior Cervical Discectomy & Fusion - 6,Neurosurgery,9
+Laryngoscopy,Cardiovascular / Pulmonary,10
+Closed Reduction Percutaneous Pinning,Orthopedic,3
+Chest Closure,Cardiovascular / Pulmonary,1
+Myringotomy/Tube Insertion - 2,ENT - Otolaryngology,1
+Pain Management Progress Note,Orthopedic,2
+Air Under Diaphragm - Consult,Gastroenterology,7
+Ultrasound OB - 4,Radiology,14
+Ortho Office Visit,Orthopedic,2
+Rectal Bleeding - 1-year-old,Pediatrics - Neonatal,8
+Lumbar Laminotomy & Discectomy,Neurosurgery,9
+Transesophageal Echocardiogram - 1,Cardiovascular / Pulmonary,5
+Consult - Seizures - 2,Neurology,2
+"Arthroscopy, Meniscoplasty, & Chondroplasty",Orthopedic,3
+Electroencephalogram,Neurology,2
+MRI of Brain w/o Contrast.,Neurology,16
+Three-Week Postpartum Checkup,Obstetrics / Gynecology,7
+Cholecystectomy Laparoscopic,Gastroenterology,1

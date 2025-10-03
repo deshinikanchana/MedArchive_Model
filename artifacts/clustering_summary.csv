@@ -1,0 +1,2 @@
+optimal_k,silhouette_score,calinski_harabasz_score,davies_bouldin_score,inertia,n_iter
+18,0.036826676404875684,11.836412071522142,5.148280074719705,1473.7692769798277,11

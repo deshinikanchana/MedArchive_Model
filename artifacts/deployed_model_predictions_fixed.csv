@@ -1,0 +1,371 @@
+True_Label,Predicted_Label,Correct
+Orthopedic,Neurosurgery,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Neurosurgery,False
+Neurology,Neurology,True
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Neurology,Neurology,True
+Gastroenterology,ENT - Otolaryngology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Neurology,False
+Neurology,Psychiatry / Psychology,False
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurology,True
+Neurosurgery,Neurology,False
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Ophthalmology,Ophthalmology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Neurosurgery,False
+Hematology - Oncology,Hematology - Oncology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurosurgery,Neurology,False
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurology,True
+Gastroenterology,Gastroenterology,True
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Obstetrics / Gynecology,Hematology - Oncology,False
+Neurosurgery,Orthopedic,False
+ENT - Otolaryngology,Neurology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Orthopedic,Orthopedic,True
+Neurosurgery,Orthopedic,False
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Orthopedic,False
+Neurology,Neurology,True
+Hematology - Oncology,Hematology - Oncology,True
+Orthopedic,Orthopedic,True
+Gastroenterology,Gastroenterology,True
+Psychiatry / Psychology,Psychiatry / Psychology,True
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+Orthopedic,Orthopedic,True
+Orthopedic,Neurology,False
+Neurosurgery,Orthopedic,False
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Neurology,Neurology,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Radiology,False
+Neurology,Neurology,True
+Psychiatry / Psychology,Psychiatry / Psychology,True
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Ophthalmology,Ophthalmology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Hematology - Oncology,Ophthalmology,False
+Cardiovascular / Pulmonary,Gastroenterology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Neurosurgery,False
+Neurology,Neurology,True
+Hematology - Oncology,Hematology - Oncology,True
+Orthopedic,Neurosurgery,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurosurgery,False
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Neurology,Radiology,False
+Neurology,Neurosurgery,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Orthopedic,Orthopedic,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurosurgery,Neurosurgery,True
+Ophthalmology,Hematology - Oncology,False
+Orthopedic,Orthopedic,True
+Nephrology,Psychiatry / Psychology,False
+Orthopedic,Neurology,False
+Neurology,Neurology,True
+Psychiatry / Psychology,Psychiatry / Psychology,True
+ENT - Otolaryngology,Cardiovascular / Pulmonary,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Radiology,False
+Hematology - Oncology,Hematology - Oncology,True
+Neurology,Neurology,True
+Ophthalmology,Ophthalmology,True
+Neurology,Neurology,True
+Neurology,Neurology,True
+Psychiatry / Psychology,Neurology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Orthopedic,Orthopedic,True
+Gastroenterology,Gastroenterology,True
+Neurosurgery,Neurosurgery,True
+Neurosurgery,Neurosurgery,True
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurosurgery,Orthopedic,False
+Hematology - Oncology,Hematology - Oncology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Orthopedic,False
+Obstetrics / Gynecology,Radiology,False
+Orthopedic,Orthopedic,True
+Ophthalmology,Ophthalmology,True
+Orthopedic,Neurosurgery,False
+Neurology,Radiology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Hematology - Oncology,Hematology - Oncology,True
+Neurosurgery,Neurology,False
+Neurology,Radiology,False
+Cardiovascular / Pulmonary,Radiology,False
+Neurology,Neurosurgery,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Neurology,Pediatrics - Neonatal,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Nephrology,Nephrology,True
+Orthopedic,Hematology - Oncology,False
+Ophthalmology,Ophthalmology,True
+Nephrology,Nephrology,True
+Orthopedic,Neurology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Hematology - Oncology,Cardiovascular / Pulmonary,False
+Orthopedic,Orthopedic,True
+Gastroenterology,Gastroenterology,True
+Neurosurgery,Orthopedic,False
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Nephrology,Hematology - Oncology,False
+Ophthalmology,Ophthalmology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Neurology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Pediatrics - Neonatal,False
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Orthopedic,Orthopedic,True
+Gastroenterology,Gastroenterology,True
+Obstetrics / Gynecology,Hematology - Oncology,False
+Nephrology,Cardiovascular / Pulmonary,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,ENT - Otolaryngology,False
+Neurology,Radiology,False
+Orthopedic,Orthopedic,True
+Orthopedic,Neurosurgery,False
+Gastroenterology,Gastroenterology,True
+Orthopedic,Orthopedic,True
+Neurology,Neurology,True
+Orthopedic,Orthopedic,True
+Gastroenterology,Cardiovascular / Pulmonary,False
+Nephrology,Nephrology,True
+Gastroenterology,Gastroenterology,True
+Orthopedic,Orthopedic,True
+Hematology - Oncology,Hematology - Oncology,True
+Neurology,Gastroenterology,False
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Ophthalmology,Ophthalmology,True
+Ophthalmology,Ophthalmology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurology,True
+Obstetrics / Gynecology,Radiology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+ENT - Otolaryngology,Neurology,False
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Neurology,Neurology,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Hematology - Oncology,Hematology - Oncology,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Neurology,Neurosurgery,False
+Neurology,Ophthalmology,False
+Nephrology,Gastroenterology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurosurgery,Neurosurgery,True
+Neurology,Neurosurgery,False
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Hematology - Oncology,Hematology - Oncology,True
+Psychiatry / Psychology,Psychiatry / Psychology,True
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Pediatrics - Neonatal,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Radiology,Cardiovascular / Pulmonary,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurology,True
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Neurology,Radiology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Pediatrics - Neonatal,Pediatrics - Neonatal,True
+Neurosurgery,Neurosurgery,True
+Orthopedic,Neurology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Gastroenterology,Gastroenterology,True
+Orthopedic,Orthopedic,True
+Hematology - Oncology,Hematology - Oncology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurosurgery,Neurosurgery,True
+Orthopedic,Orthopedic,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Nephrology,Nephrology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Hematology - Oncology,Hematology - Oncology,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Orthopedic,False
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,ENT - Otolaryngology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Neurosurgery,Orthopedic,False
+Orthopedic,Orthopedic,True
+Neurosurgery,Neurosurgery,True
+Ophthalmology,Ophthalmology,True
+Pediatrics - Neonatal,Pediatrics - Neonatal,True
+Obstetrics / Gynecology,Hematology - Oncology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Neurology,False
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Orthopedic,Pediatrics - Neonatal,False
+Hematology - Oncology,Obstetrics / Gynecology,False
+Neurosurgery,Neurosurgery,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurology,True
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+Psychiatry / Psychology,Neurology,False
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Orthopedic,False
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Hematology - Oncology,False
+Gastroenterology,Cardiovascular / Pulmonary,False
+Hematology - Oncology,Hematology - Oncology,True
+Neurology,Neurology,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurology,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurology,Neurology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Orthopedic,Orthopedic,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Gastroenterology,Hematology - Oncology,False
+Psychiatry / Psychology,Psychiatry / Psychology,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+Neurology,Neurology,True
+Pediatrics - Neonatal,Pediatrics - Neonatal,True
+Obstetrics / Gynecology,Hematology - Oncology,False
+Psychiatry / Psychology,Psychiatry / Psychology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Neurosurgery,Neurosurgery,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Orthopedic,Orthopedic,True
+Radiology,Neurology,False
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+ENT - Otolaryngology,ENT - Otolaryngology,True
+Nephrology,Nephrology,True
+Orthopedic,Neurosurgery,False
+Gastroenterology,Gastroenterology,True
+Gastroenterology,Gastroenterology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Ophthalmology,Neurology,False
+ENT - Otolaryngology,Pediatrics - Neonatal,False
+Neurosurgery,Neurosurgery,True
+Obstetrics / Gynecology,Obstetrics / Gynecology,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Orthopedic,Orthopedic,True
+Orthopedic,Neurosurgery,False
+Orthopedic,Orthopedic,True
+Cardiovascular / Pulmonary,Cardiovascular / Pulmonary,True
+Neurosurgery,Neurosurgery,True
+Gastroenterology,Gastroenterology,True
+Neurology,Orthopedic,False
+Cardiovascular / Pulmonary,ENT - Otolaryngology,False
+Psychiatry / Psychology,Psychiatry / Psychology,True
+Nephrology,Nephrology,True
+ENT - Otolaryngology,ENT - Otolaryngology,True
